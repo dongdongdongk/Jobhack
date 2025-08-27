@@ -5,7 +5,7 @@ date: "2025-08-27T12:08:15Z"
 description: "r/jobsearchhacks에서 화제가 된 Why Avoid Thailand for Work: Essential Warning Guide에 대한 깊이 있는 분석과 인사이트"
 tags: ["Safety", "Job Search", "Scams", "Thailand"]
 category: "jobsearchhacks"
-author: "EDM Team"
+author: "Jobhack Team"
 image: "https://images.unsplash.com/photo-1555314138-ff08c382c920?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTU0NDF8MHwxfHNlYXJjaHw1MHx8Z3VpZGV8ZW58MXwwfHx8MTc1NjI5NjQ3Nnww&ixlib=rb-4.1.0&q=80&w=1080"
 source:
   platform: "Reddit"

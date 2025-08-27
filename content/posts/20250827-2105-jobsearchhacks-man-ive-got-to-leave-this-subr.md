@@ -5,7 +5,7 @@ date: "2025-08-27T12:05:30Z"
 description: "r/jobsearchhacks에서 화제가 된 Why I Finally Left This Subreddit: A Personal Journey에 대한 깊이 있는 분석과 인사이트"
 tags: ["Job search", "Community support", "Success stories", "Online forums"]
 category: "jobsearchhacks"
-author: "EDM Team"
+author: "Jobhack Team"
 image: "https://images.unsplash.com/photo-1533750516457-a7f992034fec?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTU0NDF8MHwxfHNlYXJjaHwxNHx8ZGlnaXRhbCUyMG1hcmtldGluZ3xlbnwxfDB8fHwxNzU2Mjk2MzIwfDA&ixlib=rb-4.1.0&q=80&w=1080"
 source:
   platform: "Reddit"
