@@ -1,0 +1,32 @@
+{
+  "date": "2025-08-27",
+  "timestamp": "2025-08-27T14:39:30.054Z",
+  "executionTimeMs": 21026,
+  "blog": {
+    "title": "Lighten Up: A Good Joke for Tough Times!",
+    "filename": "20250827-2339-jobs-can-i-offer-you-a-nice-joke-in.md",
+    "path": "F:\\2025WebProject\\BlogProject\\JobhacksBlog\\content\\posts\\20250827-2339-jobs-can-i-offer-you-a-nice-joke-in.md",
+    "contentLength": 3599,
+    "wordCount": 521
+  },
+  "source": {
+    "subreddit": "jobs",
+    "originalTitle": "Can I offer you a nice joke in this trying time?",
+    "originalUrl": "https://reddit.com/r/jobs/comments/1n0sj3r/can_i_offer_you_a_nice_joke_in_this_trying_time/",
+    "engagement": {
+      "upvotes": 2743,
+      "comments": 29
+    }
+  },
+  "stats": {
+    "aiModel": "gpt-4",
+    "promptTokens": "estimated",
+    "completionTokens": "estimated",
+    "totalCost": "estimated"
+  },
+  "metadata": {
+    "generatedBy": "generate-reddit-blog.js",
+    "version": "1.0.0",
+    "aiGenerator": "openai-reddit-generator"
+  }
+}
