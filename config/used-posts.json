@@ -375,11 +375,19 @@
       "upvotes": 653,
       "usedAt": "2025-08-27T16:12:42.690Z",
       "url": "https://reddit.com/r/jobs/comments/1n0uktu/this_is_why_you_never_assume_you_have_a_job/"
+    },
+    {
+      "id": "1n155md",
+      "title": "I was asked to quit today.",
+      "subreddit": "jobs",
+      "upvotes": 599,
+      "usedAt": "2025-08-27T17:48:56.341Z",
+      "url": "https://reddit.com/r/jobs/comments/1n155md/i_was_asked_to_quit_today/"
     }
   ],
   "lastCleanup": "2025-08-24T05:56:58Z",
   "stats": {
-    "totalUsed": 50,
+    "totalUsed": 51,
     "cleanupCount": 10
   }
 }
