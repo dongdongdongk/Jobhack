@@ -4,6 +4,7 @@
  */
 
 const nodemailer = require('nodemailer');
+const siteConfig = require('../../config/site.config');
 
 class EmailNotifier {
   constructor(logger) {
@@ -99,7 +100,7 @@ class EmailNotifier {
       stats
     } = generationInfo;
 
-    const blogUrl = `https://vercel.com/dongdongdongks-projects/web-maker/${blog.filename.replace('.md', '')}`;
+    const blogUrl = `${siteConfig.site.url}/${blog.filename.replace('.md', '')}`;
     const redditUrl = sourceData.originalUrl;
 
     const html = `
