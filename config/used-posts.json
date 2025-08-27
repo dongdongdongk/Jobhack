@@ -367,11 +367,19 @@
       "upvotes": 937,
       "usedAt": "2025-08-27T16:04:03.256Z",
       "url": "https://reddit.com/r/jobs/comments/1n0v0y9/why_are_they_like_this/"
+    },
+    {
+      "id": "1n0uktu",
+      "title": "This is why you never assume you have a job",
+      "subreddit": "jobs",
+      "upvotes": 653,
+      "usedAt": "2025-08-27T16:12:42.690Z",
+      "url": "https://reddit.com/r/jobs/comments/1n0uktu/this_is_why_you_never_assume_you_have_a_job/"
     }
   ],
   "lastCleanup": "2025-08-24T05:56:58Z",
   "stats": {
-    "totalUsed": 49,
+    "totalUsed": 50,
     "cleanupCount": 10
   }
 }
