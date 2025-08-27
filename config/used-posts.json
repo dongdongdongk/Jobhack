@@ -351,11 +351,19 @@
       "upvotes": 2743,
       "usedAt": "2025-08-27T14:39:11.804Z",
       "url": "https://reddit.com/r/jobs/comments/1n0sj3r/can_i_offer_you_a_nice_joke_in_this_trying_time/"
+    },
+    {
+      "id": "1n1hno9",
+      "title": "I rejected a group interview and they didn’t take is so well",
+      "subreddit": "jobs",
+      "upvotes": 974,
+      "usedAt": "2025-08-27T15:45:14.257Z",
+      "url": "https://reddit.com/r/jobs/comments/1n1hno9/i_rejected_a_group_interview_and_they_didnt_take/"
     }
   ],
   "lastCleanup": "2025-08-24T05:56:58Z",
   "stats": {
-    "totalUsed": 47,
+    "totalUsed": 48,
     "cleanupCount": 10
   }
 }
