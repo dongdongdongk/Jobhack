@@ -359,11 +359,19 @@
       "upvotes": 974,
       "usedAt": "2025-08-27T15:45:14.257Z",
       "url": "https://reddit.com/r/jobs/comments/1n1hno9/i_rejected_a_group_interview_and_they_didnt_take/"
+    },
+    {
+      "id": "1n0v0y9",
+      "title": "Why are they like this?",
+      "subreddit": "jobs",
+      "upvotes": 937,
+      "usedAt": "2025-08-27T16:04:03.256Z",
+      "url": "https://reddit.com/r/jobs/comments/1n0v0y9/why_are_they_like_this/"
     }
   ],
   "lastCleanup": "2025-08-24T05:56:58Z",
   "stats": {
-    "totalUsed": 48,
+    "totalUsed": 49,
     "cleanupCount": 10
   }
 }
