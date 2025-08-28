@@ -399,11 +399,19 @@
       "upvotes": 450,
       "usedAt": "2025-08-28T02:14:52.563Z",
       "url": "https://reddit.com/r/jobs/comments/1n1uti7/interviewer_asked_why_im_still_unemployed/"
+    },
+    {
+      "id": "1n1noyy",
+      "title": "one time i had excellent performance reviews, but they gave me a 0% raise. this is what i did.",
+      "subreddit": "jobs",
+      "upvotes": 788,
+      "usedAt": "2025-08-28T13:48:02.168Z",
+      "url": "https://reddit.com/r/jobs/comments/1n1noyy/one_time_i_had_excellent_performance_reviews_but/"
     }
   ],
   "lastCleanup": "2025-08-24T05:56:58Z",
   "stats": {
-    "totalUsed": 53,
+    "totalUsed": 54,
     "cleanupCount": 10
   }
 }
