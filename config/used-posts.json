@@ -391,11 +391,19 @@
       "upvotes": 206,
       "usedAt": "2025-08-27T21:59:10.096Z",
       "url": "https://reddit.com/r/jobs/comments/1n1lo3j/applying_for_jobs_feels_like_screaming_into_the/"
+    },
+    {
+      "id": "1n1uti7",
+      "title": "Interviewer asked why I’m still unemployed",
+      "subreddit": "jobs",
+      "upvotes": 450,
+      "usedAt": "2025-08-28T02:14:52.563Z",
+      "url": "https://reddit.com/r/jobs/comments/1n1uti7/interviewer_asked_why_im_still_unemployed/"
     }
   ],
   "lastCleanup": "2025-08-24T05:56:58Z",
   "stats": {
-    "totalUsed": 52,
+    "totalUsed": 53,
     "cleanupCount": 10
   }
 }
