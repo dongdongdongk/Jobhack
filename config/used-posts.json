@@ -407,11 +407,19 @@
       "upvotes": 788,
       "usedAt": "2025-08-28T13:48:02.168Z",
       "url": "https://reddit.com/r/jobs/comments/1n1noyy/one_time_i_had_excellent_performance_reviews_but/"
+    },
+    {
+      "id": "1n226gg",
+      "title": "Nobody's hiring. When people leave, their work gets added to YOURS",
+      "subreddit": "jobs",
+      "upvotes": 436,
+      "usedAt": "2025-08-28T17:48:50.098Z",
+      "url": "https://reddit.com/r/jobs/comments/1n226gg/nobodys_hiring_when_people_leave_their_work_gets/"
     }
   ],
   "lastCleanup": "2025-08-24T05:56:58Z",
   "stats": {
-    "totalUsed": 54,
+    "totalUsed": 55,
     "cleanupCount": 10
   }
 }
