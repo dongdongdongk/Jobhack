@@ -439,11 +439,19 @@
       "upvotes": 95,
       "usedAt": "2025-08-29T17:48:44.443Z",
       "url": "https://reddit.com/r/jobs/comments/1n37gae/finally_got_a_job_after_3_years_of_applying/"
+    },
+    {
+      "id": "1n34u4y",
+      "title": "AI adoption linked to 13% decline in jobs for young U.S. workers, Stanford study reveals",
+      "subreddit": "jobs",
+      "upvotes": 58,
+      "usedAt": "2025-08-29T18:54:14.353Z",
+      "url": "https://reddit.com/r/jobs/comments/1n34u4y/ai_adoption_linked_to_13_decline_in_jobs_for/"
     }
   ],
   "lastCleanup": "2025-08-24T05:56:58Z",
   "stats": {
-    "totalUsed": 58,
+    "totalUsed": 59,
     "cleanupCount": 10
   }
 }
