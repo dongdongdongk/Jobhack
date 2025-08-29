@@ -1,21 +1,21 @@
 {
-  "date": "2025-08-27",
-  "timestamp": "2025-08-27T17:49:16.062Z",
-  "executionTimeMs": 23128,
+  "date": "2025-08-29",
+  "timestamp": "2025-08-29T18:54:32.897Z",
+  "executionTimeMs": 20257,
   "blog": {
-    "title": "I Was Asked to Quit: Navigating Career Crossroads",
-    "filename": "20250827-1749-jobs-i-was-asked-to-quit-today.md",
-    "path": "/home/runner/work/Jobhack/Jobhack/content/posts/20250827-1749-jobs-i-was-asked-to-quit-today.md",
-    "contentLength": 3755,
-    "wordCount": 519
+    "title": "AI Cuts U.S. Youth Jobs by 13%, Stanford Study Finds",
+    "filename": "20250829-1854-jobs-ai-adoption-linked-to-13-decli.md",
+    "path": "/home/runner/work/Jobhack/Jobhack/content/posts/20250829-1854-jobs-ai-adoption-linked-to-13-decli.md",
+    "contentLength": 3519,
+    "wordCount": 520
   },
   "source": {
     "subreddit": "jobs",
-    "originalTitle": "I was asked to quit today.",
-    "originalUrl": "https://reddit.com/r/jobs/comments/1n155md/i_was_asked_to_quit_today/",
+    "originalTitle": "AI adoption linked to 13% decline in jobs for young U.S. workers, Stanford study reveals",
+    "originalUrl": "https://reddit.com/r/jobs/comments/1n34u4y/ai_adoption_linked_to_13_decline_in_jobs_for/",
     "engagement": {
-      "upvotes": 599,
-      "comments": 125
+      "upvotes": 58,
+      "comments": 1
     }
   },
   "stats": {

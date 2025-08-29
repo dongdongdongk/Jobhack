@@ -383,11 +383,75 @@
       "upvotes": 599,
       "usedAt": "2025-08-27T17:48:56.341Z",
       "url": "https://reddit.com/r/jobs/comments/1n155md/i_was_asked_to_quit_today/"
+    },
+    {
+      "id": "1n1lo3j",
+      "title": "applying for jobs feels like screaming into the VOID",
+      "subreddit": "jobs",
+      "upvotes": 206,
+      "usedAt": "2025-08-27T21:59:10.096Z",
+      "url": "https://reddit.com/r/jobs/comments/1n1lo3j/applying_for_jobs_feels_like_screaming_into_the/"
+    },
+    {
+      "id": "1n1uti7",
+      "title": "Interviewer asked why I’m still unemployed",
+      "subreddit": "jobs",
+      "upvotes": 450,
+      "usedAt": "2025-08-28T02:14:52.563Z",
+      "url": "https://reddit.com/r/jobs/comments/1n1uti7/interviewer_asked_why_im_still_unemployed/"
+    },
+    {
+      "id": "1n1noyy",
+      "title": "one time i had excellent performance reviews, but they gave me a 0% raise. this is what i did.",
+      "subreddit": "jobs",
+      "upvotes": 788,
+      "usedAt": "2025-08-28T13:48:02.168Z",
+      "url": "https://reddit.com/r/jobs/comments/1n1noyy/one_time_i_had_excellent_performance_reviews_but/"
+    },
+    {
+      "id": "1n226gg",
+      "title": "Nobody's hiring. When people leave, their work gets added to YOURS",
+      "subreddit": "jobs",
+      "upvotes": 436,
+      "usedAt": "2025-08-28T17:48:50.098Z",
+      "url": "https://reddit.com/r/jobs/comments/1n226gg/nobodys_hiring_when_people_leave_their_work_gets/"
+    },
+    {
+      "id": "1n2ncbs",
+      "title": "Just got laid off via text",
+      "subreddit": "jobs",
+      "upvotes": 2383,
+      "usedAt": "2025-08-29T02:15:16.760Z",
+      "url": "https://reddit.com/r/jobs/comments/1n2ncbs/just_got_laid_off_via_text/"
+    },
+    {
+      "id": "1n2ec7l",
+      "title": "Should I give up remote work to go from $86K to 120k. New position will have 4 days in office 1 day WFH",
+      "subreddit": "jobs",
+      "upvotes": 318,
+      "usedAt": "2025-08-29T13:46:24.892Z",
+      "url": "https://reddit.com/r/jobs/comments/1n2ec7l/should_i_give_up_remote_work_to_go_from_86k_to/"
+    },
+    {
+      "id": "1n37gae",
+      "title": "Finally got a job after 3 years of applying.",
+      "subreddit": "jobs",
+      "upvotes": 95,
+      "usedAt": "2025-08-29T17:48:44.443Z",
+      "url": "https://reddit.com/r/jobs/comments/1n37gae/finally_got_a_job_after_3_years_of_applying/"
+    },
+    {
+      "id": "1n34u4y",
+      "title": "AI adoption linked to 13% decline in jobs for young U.S. workers, Stanford study reveals",
+      "subreddit": "jobs",
+      "upvotes": 58,
+      "usedAt": "2025-08-29T18:54:14.353Z",
+      "url": "https://reddit.com/r/jobs/comments/1n34u4y/ai_adoption_linked_to_13_decline_in_jobs_for/"
     }
   ],
   "lastCleanup": "2025-08-24T05:56:58Z",
   "stats": {
-    "totalUsed": 51,
+    "totalUsed": 59,
     "cleanupCount": 10
   }
 }
