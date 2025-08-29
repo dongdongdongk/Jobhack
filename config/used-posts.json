@@ -447,11 +447,19 @@
       "upvotes": 58,
       "usedAt": "2025-08-29T18:54:14.353Z",
       "url": "https://reddit.com/r/jobs/comments/1n34u4y/ai_adoption_linked_to_13_decline_in_jobs_for/"
+    },
+    {
+      "id": "1n391yt",
+      "title": "Entire interviewing team is gone.",
+      "subreddit": "jobs",
+      "upvotes": 36,
+      "usedAt": "2025-08-29T19:27:11.597Z",
+      "url": "https://reddit.com/r/jobs/comments/1n391yt/entire_interviewing_team_is_gone/"
     }
   ],
   "lastCleanup": "2025-08-24T05:56:58Z",
   "stats": {
-    "totalUsed": 59,
+    "totalUsed": 60,
     "cleanupCount": 10
   }
 }
