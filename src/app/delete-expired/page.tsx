@@ -1,4 +1,5 @@
 import { Suspense } from 'react'
+import Link from 'next/link'
 
 function DeleteExpiredContent() {
   return (
@@ -22,12 +23,12 @@ function DeleteExpiredContent() {
         </div>
         
         <div className="space-y-3">
-          <a 
+          <Link 
             href="/" 
             className="w-full bg-blue-600 hover:bg-blue-700 text-white font-medium py-2 px-4 rounded-lg transition-colors duration-200 inline-block"
           >
             홈으로 돌아가기
-          </a>
+          </Link>
         </div>
       </div>
     </div>
