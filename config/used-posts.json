@@ -431,11 +431,19 @@
       "upvotes": 318,
       "usedAt": "2025-08-29T13:46:24.892Z",
       "url": "https://reddit.com/r/jobs/comments/1n2ec7l/should_i_give_up_remote_work_to_go_from_86k_to/"
+    },
+    {
+      "id": "1n37gae",
+      "title": "Finally got a job after 3 years of applying.",
+      "subreddit": "jobs",
+      "upvotes": 95,
+      "usedAt": "2025-08-29T17:48:44.443Z",
+      "url": "https://reddit.com/r/jobs/comments/1n37gae/finally_got_a_job_after_3_years_of_applying/"
     }
   ],
   "lastCleanup": "2025-08-24T05:56:58Z",
   "stats": {
-    "totalUsed": 57,
+    "totalUsed": 58,
     "cleanupCount": 10
   }
 }
