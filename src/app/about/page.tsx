@@ -46,7 +46,7 @@ export default function AboutPage() {
         {/* Authority Stats */}
         <section className="mb-16">
           <div className="grid grid-cols-2 md:grid-cols-4 gap-6">
-            {aboutConfig.authority.stats.map((stat, index) => (
+            {aboutConfig.authority.stats.map((stat: { number: string; label: string }, index: number) => (
               <div key={index} className="text-center p-6 bg-white rounded-lg shadow-md border border-gray-100">
                 <div className="text-3xl md:text-4xl font-bold mb-2" style={{ color: colors.primary[500] }}>
                   {stat.number}
@@ -70,7 +70,7 @@ export default function AboutPage() {
             </p>
             
             <div className="grid md:grid-cols-2 lg:grid-cols-4 gap-6">
-              {aboutConfig.mission.values.map((value, index) => (
+              {aboutConfig.mission.values.map((value: { title: string; description: string; icon: string }, index: number) => (
                 <div key={index} className="text-center">
                   <div className="w-16 h-16 mx-auto mb-4 rounded-full flex items-center justify-center" style={{ backgroundColor: colors.primary[100] }}>
                     <svg className="w-8 h-8" fill="none" stroke="currentColor" viewBox="0 0 24 24" style={{ color: colors.primary[600] }}>
@@ -104,7 +104,7 @@ export default function AboutPage() {
           </div>
 
           <div className="grid lg:grid-cols-3 gap-8">
-            {aboutConfig.team.members.map((member, index) => (
+            {aboutConfig.team.members.map((member: { name: string; role: string; expertise: string[]; experience: string }, index: number) => (
               <div key={index} className="bg-white rounded-lg shadow-md border border-gray-100 p-6">
                 <div className="text-center mb-4">
                   <div className="w-20 h-20 mx-auto mb-4 rounded-full flex items-center justify-center" style={{ background: `linear-gradient(to right, ${colors.primary[500]}, ${colors.secondary[500]})` }}>
@@ -123,7 +123,7 @@ export default function AboutPage() {
                 <div className="mb-4">
                   <h4 className="text-sm font-semibold text-gray-800 mb-2">Expertise:</h4>
                   <div className="flex flex-wrap gap-2">
-                    {member.expertise.map((skill, skillIndex) => (
+                    {member.expertise.map((skill: string, skillIndex: number) => (
                       <span key={skillIndex} className="px-2 py-1 text-xs rounded-full" style={{ backgroundColor: colors.primary[100], color: colors.primary[700] }}>
                         {skill}
                       </span>
@@ -150,7 +150,7 @@ export default function AboutPage() {
               <div>
                 <h3 className="text-xl font-semibold text-gray-900 mb-4">Our Credentials</h3>
                 <ul className="space-y-3">
-                  {aboutConfig.authority.credentials.map((credential, index) => (
+                  {aboutConfig.authority.credentials.map((credential: string, index: number) => (
                     <li key={index} className="flex items-start">
                       <svg className="w-5 h-5 mr-3 mt-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24" style={{ color: colors.primary[500] }}>
                         <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M5 13l4 4L19 7" />
@@ -164,7 +164,7 @@ export default function AboutPage() {
               <div>
                 <h3 className="text-xl font-semibold text-gray-900 mb-4">Certifications</h3>
                 <div className="space-y-4">
-                  {aboutConfig.company.certifications.map((cert, index) => (
+                  {aboutConfig.company.certifications.map((cert: { name: string }, index: number) => (
                     <div key={index} className="flex items-center p-3 border border-gray-200 rounded-lg">
                       <div className="w-12 h-12 bg-gray-100 rounded-lg flex items-center justify-center mr-3">
                         <span className="text-xs font-semibold text-gray-600">{cert.name.slice(0, 2)}</span>
