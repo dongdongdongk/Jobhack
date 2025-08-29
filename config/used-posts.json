@@ -455,11 +455,19 @@
       "upvotes": 36,
       "usedAt": "2025-08-29T19:27:11.597Z",
       "url": "https://reddit.com/r/jobs/comments/1n391yt/entire_interviewing_team_is_gone/"
+    },
+    {
+      "id": "1n34zdw",
+      "title": "how do I not take getting laid off so personally?",
+      "subreddit": "jobs",
+      "upvotes": 34,
+      "usedAt": "2025-08-29T19:47:41.112Z",
+      "url": "https://reddit.com/r/jobs/comments/1n34zdw/how_do_i_not_take_getting_laid_off_so_personally/"
     }
   ],
   "lastCleanup": "2025-08-24T05:56:58Z",
   "stats": {
-    "totalUsed": 60,
+    "totalUsed": 61,
     "cleanupCount": 10
   }
 }
