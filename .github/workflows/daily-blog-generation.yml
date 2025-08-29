@@ -58,6 +58,8 @@ jobs:
           GMAIL_PASSWORD: ${{ secrets.GMAIL_PASSWORD }}
           NOTIFICATION_EMAIL: ${{ secrets.NOTIFICATION_EMAIL }}
           UNSPLASH_ACCESS_KEY: ${{ secrets.UNSPLASH_ACCESS_KEY }}
+          # JWT Secret for deletion tokens in emails
+          JWT_SECRET: ${{ secrets.JWT_SECRET }}
         run: |
           echo "🚀 Starting blog generation..."
           

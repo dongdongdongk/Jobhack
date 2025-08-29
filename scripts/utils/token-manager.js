@@ -8,7 +8,7 @@ const jwt = require('jsonwebtoken')
 class TokenManager {
   constructor() {
     // JWT 시크릿 키 (환경변수 또는 기본값)
-    this.secret = process.env.JWT_SECRET || 'your-super-secret-key-change-this'
+    this.secret = process.env.JWT_SECRET || 'jobhack-blog-default-secret-2024-secure-token-key-please-change-in-production'
     
     // 토큰 만료 시간 (7일)
     this.expiresIn = '7d'
