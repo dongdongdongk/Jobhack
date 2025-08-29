@@ -415,11 +415,19 @@
       "upvotes": 436,
       "usedAt": "2025-08-28T17:48:50.098Z",
       "url": "https://reddit.com/r/jobs/comments/1n226gg/nobodys_hiring_when_people_leave_their_work_gets/"
+    },
+    {
+      "id": "1n2ncbs",
+      "title": "Just got laid off via text",
+      "subreddit": "jobs",
+      "upvotes": 2383,
+      "usedAt": "2025-08-29T02:15:16.760Z",
+      "url": "https://reddit.com/r/jobs/comments/1n2ncbs/just_got_laid_off_via_text/"
     }
   ],
   "lastCleanup": "2025-08-24T05:56:58Z",
   "stats": {
-    "totalUsed": 55,
+    "totalUsed": 56,
     "cleanupCount": 10
   }
 }
