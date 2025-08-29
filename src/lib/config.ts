@@ -377,6 +377,11 @@ export function generateImageUrl(width: number = 1200, height: number = 600, see
   }
 }
 
+// About 페이지 설정
+export function getAboutPageConfig() {
+  return (siteConfig as any).aboutPage
+}
+
 // 환경변수와 설정 병합
 export function getEnvironmentConfig() {
   const config = getConfig()

@@ -5,11 +5,13 @@
 
 const nodemailer = require('nodemailer');
 const siteConfig = require('../../config/site.config');
+const TokenManager = require('../utils/token-manager');
 
 class EmailNotifier {
   constructor(logger) {
     this.logger = logger;
     this.transporter = null;
+    this.tokenManager = new TokenManager();
     this.initializeTransporter();
   }
 
@@ -102,6 +104,13 @@ class EmailNotifier {
 
     const blogUrl = `${siteConfig.site.url}/${blog.filename.replace('.md', '')}`;
     const redditUrl = sourceData.originalUrl;
+    
+    // 삭제 URL 생성
+    const deleteUrl = this.tokenManager.generateDeleteUrl(
+      siteConfig.site.url,
+      blog.filename,
+      title
+    );
 
     const html = `
     <!DOCTYPE html>
@@ -204,6 +213,22 @@ class EmailNotifier {
                 font-weight: bold;
                 margin: 10px 5px;
             }
+            .delete-link {
+                display: inline-flex;
+                align-items: center;
+                background: #f44336;
+                color: white;
+                padding: 12px 20px;
+                text-decoration: none;
+                border-radius: 6px;
+                font-weight: bold;
+                margin: 10px 5px;
+                border: 2px solid #d32f2f;
+            }
+            .delete-link:hover {
+                background: #d32f2f;
+                color: white;
+            }
             .stats {
                 background: #e8f5e8;
                 padding: 20px;
@@ -290,6 +315,9 @@ class EmailNotifier {
                 <a href="${blogUrl}" class="blog-link">
                     📖 생성된 블로그 보기
                 </a>
+                <a href="${deleteUrl}" class="delete-link">
+                    🗑️ 블로그 글 삭제하기
+                </a>
             </div>
 
             <div class="stats">
@@ -306,6 +334,19 @@ class EmailNotifier {
                     <li>소셜 미디어 공유 준비</li>
                     <li>다음 Reddit 트렌드 모니터링</li>
                 </ul>
+            </div>
+
+            <div style="background: #fff3e0; padding: 20px; border-radius: 8px; margin: 20px 0; border-left: 4px solid #ff9800;">
+                <h3 style="color: #e65100; margin-bottom: 10px;">🗑️ 삭제 안내</h3>
+                <p style="margin: 5px 0; color: #424242; font-size: 14px;">
+                    위의 <strong>"블로그 글 삭제하기"</strong> 버튼을 클릭하면 생성된 블로그 포스트를 완전히 삭제할 수 있습니다.
+                </p>
+                <p style="margin: 5px 0; color: #424242; font-size: 14px;">
+                    ⚠️ <strong>주의:</strong> 삭제 링크는 보안상 7일 후 자동으로 만료됩니다.
+                </p>
+                <p style="margin: 5px 0; color: #424242; font-size: 14px;">
+                    💡 <strong>팁:</strong> 삭제된 내용은 복구할 수 없으니 신중하게 결정하세요.
+                </p>
             </div>
 
             <div class="footer">
@@ -343,12 +384,18 @@ class EmailNotifier {
 🔗 링크:
 - Reddit 원본: ${redditUrl}
 - 생성된 블로그: ${blogUrl}
+- 🗑️ 블로그 삭제: ${deleteUrl}
 
 📊 통계:
 - 카테고리: ${metadata.category}
 - 태그: ${metadata.tags.join(', ')}
 - 언어: 한국어
 - 작성자: ${metadata.author}
+
+🗑️ 삭제 안내:
+- 위의 삭제 링크를 클릭하면 생성된 블로그 포스트를 완전히 삭제할 수 있습니다.
+- ⚠️ 주의: 삭제 링크는 보안상 7일 후 자동으로 만료됩니다.
+- 💡 팁: 삭제된 내용은 복구할 수 없으니 신중하게 결정하세요.
 
 ---
 이 이메일은 WebMaker AI 블로그 자동 생성 시스템에서 발송되었습니다.
@@ -675,23 +722,52 @@ ${additionalInfo.redditData.originalUrl ? `- 원본 URL: ${additionalInfo.reddit
   }
 
   /**
-   * 이메일 전송 테스트
+   * 이메일 전송 테스트 (삭제 버튼 포함)
    */
   async testEmail() {
     try {
       const testEmail = process.env.NOTIFICATION_EMAIL || process.env.GMAIL_USER;
       
+      // 테스트용 삭제 URL 생성
+      const testDeleteUrl = this.tokenManager.generateDeleteUrl(
+        siteConfig.site.url,
+        'test-blog-post.md',
+        'Test Blog Post'
+      );
+      
       const mailOptions = {
         from: `"WebMaker AI Blog" <${process.env.GMAIL_USER}>`,
         to: testEmail,
-        subject: '🧪 WebMaker AI 이메일 시스템 테스트',
+        subject: '🧪 WebMaker AI 이메일 시스템 테스트 (삭제 기능 포함)',
         html: `
+        <style>
+          .delete-link {
+            display: inline-block;
+            background: #f44336;
+            color: white;
+            padding: 12px 20px;
+            text-decoration: none;
+            border-radius: 6px;
+            font-weight: bold;
+            margin: 10px 0;
+            border: 2px solid #d32f2f;
+          }
+        </style>
         <h2>WebMaker AI 이메일 시스템 테스트</h2>
         <p>이 이메일은 WebMaker AI 블로그 시스템의 이메일 기능 테스트입니다.</p>
         <p><strong>발송 시간:</strong> ${new Date().toLocaleString('ko-KR')}</p>
         <p><strong>상태:</strong> ✅ 정상 작동</p>
+        
+        <div style="margin: 20px 0; padding: 20px; background: #fff3e0; border-radius: 8px;">
+          <h3>🗑️ 삭제 기능 테스트</h3>
+          <p>삭제 버튼이 정상적으로 표시되는지 확인하세요:</p>
+          <a href="${testDeleteUrl}" class="delete-link">
+            🗑️ 테스트 삭제 버튼
+          </a>
+          <p><small>※ 이는 테스트 버튼이므로 실제로는 아무것도 삭제되지 않습니다.</small></p>
+        </div>
         `,
-        text: `WebMaker AI 이메일 시스템 테스트\n\n발송 시간: ${new Date().toLocaleString('ko-KR')}\n상태: 정상 작동`
+        text: `WebMaker AI 이메일 시스템 테스트\n\n발송 시간: ${new Date().toLocaleString('ko-KR')}\n상태: 정상 작동\n\n삭제 기능 테스트:\n테스트 삭제 URL: ${testDeleteUrl}\n※ 이는 테스트 URL이므로 실제로는 아무것도 삭제되지 않습니다.`
       };
 
       const result = await this.transporter.sendMail(mailOptions);

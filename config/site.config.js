@@ -281,10 +281,12 @@ const siteConfig = {
   navigation: {
     main: [
       { name: "Home", href: "/", external: false },
+      { name: "About", href: "/about", external: false },
       { name: "Contact", href: "/contact", external: false }
     ],
     footer: [
       { name: "Home", href: "/" },
+      { name: "About", href: "/about" },
       { name: "Resume Tips", href: "/resume" },
       { name: "Interview Prep", href: "/interview" },
       { name: "Career Advice", href: "/career" },
@@ -378,6 +380,95 @@ const siteConfig = {
 
       // 최대 태그 개수
       maxTags: 5
+    }
+  },
+
+  // === About Page Configuration ===
+  aboutPage: {
+    hero: {
+      title: "About Jobhack",
+      subtitle: "Your trusted guide to career success",
+      description: "We provide practical job search strategies, interview preparation tips, and career advancement advice based on real-world experience and industry insights."
+    },
+    team: {
+      title: "Who We Are",
+      subtitle: "Career specialists passionate about helping you succeed",
+      members: [
+        {
+          name: "Career Strategists",
+          role: "Job Search & Strategy Specialists",
+          expertise: ["Resume Optimization", "Job Search Strategy", "Career Planning", "ATS Systems"],
+          experience: "We help job seekers navigate the modern job market with proven strategies that actually work in today's competitive environment",
+          image: "/team/career-team.jpg"
+        },
+        {
+          name: "Interview Coaches",
+          role: "Interview & Communication Specialists",
+          expertise: ["Interview Preparation", "Behavioral Questions", "Salary Negotiation", "Communication Skills"],
+          experience: "We train professionals to ace interviews and communicate their value effectively to potential employers",
+          image: "/team/interview-team.jpg"
+        },
+        {
+          name: "Industry Experts",
+          role: "HR & Recruitment Specialists",
+          expertise: ["Recruitment Process", "HR Insights", "Industry Trends", "Employer Perspective"],
+          experience: "We share insider knowledge from the recruitment and HR world to give you an edge in your job search",
+          image: "/team/hr-team.jpg"
+        }
+      ]
+    },
+    mission: {
+      title: "What We Do",
+      content: "We bridge the gap between job seekers and employers by providing actionable advice that works. Our content is based on real experiences, current market trends, and proven strategies that have helped thousands of professionals advance their careers.",
+      values: [
+        {
+          title: "Practical Advice",
+          description: "Every tip we share is tested and proven to work in real job search situations",
+          icon: "book-open"
+        },
+        {
+          title: "Current Market Insights",
+          description: "We stay updated with the latest hiring trends and employer expectations",
+          icon: "chart-line"
+        },
+        {
+          title: "Actionable Strategies",
+          description: "Our guides provide step-by-step instructions you can implement immediately",
+          icon: "academic-cap"
+        },
+        {
+          title: "Continuous Learning",
+          description: "We constantly research and adapt our advice to match evolving job market demands",
+          icon: "refresh"
+        }
+      ]
+    },
+    authority: {
+      title: "Why Trust Us",
+      credentials: [
+        "Years of combined experience in recruitment, HR, and career coaching",
+        "Successful track record of helping professionals at all career levels",
+        "Deep understanding of modern hiring processes and employer expectations",
+        "Regular interaction with HR professionals and hiring managers across industries",
+        "Certified career coaches and recruitment specialists on our team"
+      ],
+      stats: [
+        { number: "500+", label: "Job Seekers Helped" },
+        { number: "10+", label: "Years Experience" },
+        { number: "Real", label: "World Results" },
+        { number: "Proven", label: "Strategies" }
+      ]
+    },
+    company: {
+      logo: "/logo-about.png",
+      founded: "2020",
+      location: "Global Team",
+      description: "Jobhack was founded by career professionals who understand the challenges of modern job searching. We experienced the frustration of generic advice that doesn't work in today's market, so we created a platform that provides practical, tested strategies that actually help people land their dream jobs.",
+      certifications: [
+        { name: "Certified Career Coach", image: "/cert/career-coach.png" },
+        { name: "HR Professional Certification", image: "/cert/hr-cert.png" },
+        { name: "LinkedIn Learning Partner", image: "/cert/linkedin-partner.png" }
+      ]
     }
   },
 
