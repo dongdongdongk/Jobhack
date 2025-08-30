@@ -160,17 +160,16 @@ ${imageInfo}
 Core Requirements:
 1. Write entirely in ${outputLang}
 2. Create 400-600 word easy-to-understand article
-3. Replace all technical terms with everyday language
-4. Use analogies and metaphors to explain complex concepts
-5. Focus ONLY on the most essential information
-6. Write in short, clear sentences
-7. Include ONE content image (second image) in a relevant section
-8. End with genuine 3-line summary of key takeaways
+3. Explain difficult terms as they come up
+4. Focus ONLY on the most essential information
+5. Write in short, clear sentences
+6. Include ONE content image (second image) in a relevant section
+7. End with genuine 3-line summary of key takeaways
+8. Do not mention subreddit or Reddit (mentioning "community" is acceptable)
 
 Easy Summary Structure:
 - Simple introduction that can be understood at a glance (80-100 words)
 - Explain 2-3 most important key points in simple terms (80-120 words each)
-- Simple summary of how it affects real life (80-100 words)
 - Finish with 3-line summary (50-80 words)
 
 Writing Guidelines:
@@ -180,6 +179,7 @@ Writing Guidelines:
 - Omit all unnecessary details
 - Deliver only the core message clearly and concisely (like snack content)
 - Easy-to-read and stress-free style
+- If you present a problem, always provide a clear solution
 - Summarize really important content in 3 lines at the end
 
 Write a simple, snack-like blog post that anyone can quickly read and understand, focusing only on the most important points.
