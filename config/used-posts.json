@@ -463,11 +463,19 @@
       "upvotes": 34,
       "usedAt": "2025-08-29T19:47:41.112Z",
       "url": "https://reddit.com/r/jobs/comments/1n34zdw/how_do_i_not_take_getting_laid_off_so_personally/"
+    },
+    {
+      "id": "1n3ha1c",
+      "title": "Sick and tired of employer behavior in this climate",
+      "subreddit": "jobs",
+      "upvotes": 244,
+      "usedAt": "2025-08-30T02:09:13.089Z",
+      "url": "https://reddit.com/r/jobs/comments/1n3ha1c/sick_and_tired_of_employer_behavior_in_this/"
     }
   ],
   "lastCleanup": "2025-08-24T05:56:58Z",
   "stats": {
-    "totalUsed": 61,
+    "totalUsed": 62,
     "cleanupCount": 10
   }
 }
