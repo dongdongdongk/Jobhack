@@ -471,11 +471,19 @@
       "upvotes": 244,
       "usedAt": "2025-08-30T02:09:13.089Z",
       "url": "https://reddit.com/r/jobs/comments/1n3ha1c/sick_and_tired_of_employer_behavior_in_this/"
+    },
+    {
+      "id": "1n3p1eo",
+      "title": "Update: Company wants me to stay after putting in my resignation",
+      "subreddit": "jobs",
+      "upvotes": 218,
+      "usedAt": "2025-08-30T13:42:31.126Z",
+      "url": "https://reddit.com/r/jobs/comments/1n3p1eo/update_company_wants_me_to_stay_after_putting_in/"
     }
   ],
   "lastCleanup": "2025-08-24T05:56:58Z",
   "stats": {
-    "totalUsed": 62,
+    "totalUsed": 63,
     "cleanupCount": 10
   }
 }
