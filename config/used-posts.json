@@ -487,11 +487,19 @@
       "upvotes": 269,
       "usedAt": "2025-08-30T17:48:45.701Z",
       "url": "https://reddit.com/r/jobs/comments/1n40zy9/celebrating_labor_day_in_the_worst_job_market_ever/"
+    },
+    {
+      "id": "1n45bxd",
+      "title": "Corporate is like high school.",
+      "subreddit": "jobs",
+      "upvotes": 430,
+      "usedAt": "2025-08-31T02:20:38.291Z",
+      "url": "https://reddit.com/r/jobs/comments/1n45bxd/corporate_is_like_high_school/"
     }
   ],
   "lastCleanup": "2025-08-24T05:56:58Z",
   "stats": {
-    "totalUsed": 64,
+    "totalUsed": 65,
     "cleanupCount": 10
   }
 }
