@@ -495,11 +495,19 @@
       "upvotes": 430,
       "usedAt": "2025-08-31T02:20:38.291Z",
       "url": "https://reddit.com/r/jobs/comments/1n45bxd/corporate_is_like_high_school/"
+    },
+    {
+      "id": "1n47kr4",
+      "title": "As a recent grad, it is extremely frustrating when the few young people who got job offers right out of college invalidate the job search.",
+      "subreddit": "jobs",
+      "upvotes": 357,
+      "usedAt": "2025-08-31T13:43:09.998Z",
+      "url": "https://reddit.com/r/jobs/comments/1n47kr4/as_a_recent_grad_it_is_extremely_frustrating_when/"
     }
   ],
   "lastCleanup": "2025-08-24T05:56:58Z",
   "stats": {
-    "totalUsed": 65,
+    "totalUsed": 66,
     "cleanupCount": 10
   }
 }
