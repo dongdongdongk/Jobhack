@@ -503,11 +503,19 @@
       "upvotes": 357,
       "usedAt": "2025-08-31T13:43:09.998Z",
       "url": "https://reddit.com/r/jobs/comments/1n47kr4/as_a_recent_grad_it_is_extremely_frustrating_when/"
+    },
+    {
+      "id": "1n4i479",
+      "title": "Why are basic retail jobs asking for degrees?",
+      "subreddit": "jobs",
+      "upvotes": 345,
+      "usedAt": "2025-08-31T17:48:50.168Z",
+      "url": "https://reddit.com/r/jobs/comments/1n4i479/why_are_basic_retail_jobs_asking_for_degrees/"
     }
   ],
   "lastCleanup": "2025-08-24T05:56:58Z",
   "stats": {
-    "totalUsed": 66,
+    "totalUsed": 67,
     "cleanupCount": 10
   }
 }
