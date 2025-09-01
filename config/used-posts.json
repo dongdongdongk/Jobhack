@@ -519,11 +519,19 @@
       "upvotes": 869,
       "usedAt": "2025-09-01T02:32:23.573Z",
       "url": "https://reddit.com/r/jobs/comments/1n4q7f7/ai_cant_install_an_hvac_system_why_gen_z_is/"
+    },
+    {
+      "id": "1n51940",
+      "title": "How do you find motivation when the job feels meaningless?",
+      "subreddit": "jobs",
+      "upvotes": 83,
+      "usedAt": "2025-09-01T13:47:44.089Z",
+      "url": "https://reddit.com/r/jobs/comments/1n51940/how_do_you_find_motivation_when_the_job_feels/"
     }
   ],
   "lastCleanup": "2025-08-24T05:56:58Z",
   "stats": {
-    "totalUsed": 68,
+    "totalUsed": 69,
     "cleanupCount": 10
   }
 }
