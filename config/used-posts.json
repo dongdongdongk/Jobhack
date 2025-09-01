@@ -511,11 +511,19 @@
       "upvotes": 345,
       "usedAt": "2025-08-31T17:48:50.168Z",
       "url": "https://reddit.com/r/jobs/comments/1n4i479/why_are_basic_retail_jobs_asking_for_degrees/"
+    },
+    {
+      "id": "1n4q7f7",
+      "title": "'AI can’t install an HVAC system': Why Gen Z is flocking to jobs in the trades",
+      "subreddit": "jobs",
+      "upvotes": 869,
+      "usedAt": "2025-09-01T02:32:23.573Z",
+      "url": "https://reddit.com/r/jobs/comments/1n4q7f7/ai_cant_install_an_hvac_system_why_gen_z_is/"
     }
   ],
   "lastCleanup": "2025-08-24T05:56:58Z",
   "stats": {
-    "totalUsed": 67,
+    "totalUsed": 68,
     "cleanupCount": 10
   }
 }
