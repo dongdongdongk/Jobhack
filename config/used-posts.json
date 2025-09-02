@@ -551,11 +551,19 @@
       "upvotes": 312,
       "usedAt": "2025-09-02T13:48:49.806Z",
       "url": "https://reddit.com/r/jobs/comments/1n6af1d/i_think_i_just_got_laid_off_mixed_messages/"
+    },
+    {
+      "id": "1n6m9wc",
+      "title": "Is it normal to not be friends with anyone at work?",
+      "subreddit": "jobs",
+      "upvotes": 119,
+      "usedAt": "2025-09-02T17:48:57.117Z",
+      "url": "https://reddit.com/r/jobs/comments/1n6m9wc/is_it_normal_to_not_be_friends_with_anyone_at_work/"
     }
   ],
   "lastCleanup": "2025-08-24T05:56:58Z",
   "stats": {
-    "totalUsed": 72,
+    "totalUsed": 73,
     "cleanupCount": 10
   }
 }
