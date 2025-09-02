@@ -543,11 +543,19 @@
       "upvotes": 120,
       "usedAt": "2025-09-02T02:17:11.619Z",
       "url": "https://reddit.com/r/jobs/comments/1n5eg8h/called_in_sick_now_boss_is_saying_he_wants_to/"
+    },
+    {
+      "id": "1n6af1d",
+      "title": "I think I just got laid off. mixed messages",
+      "subreddit": "jobs",
+      "upvotes": 312,
+      "usedAt": "2025-09-02T13:48:49.806Z",
+      "url": "https://reddit.com/r/jobs/comments/1n6af1d/i_think_i_just_got_laid_off_mixed_messages/"
     }
   ],
   "lastCleanup": "2025-08-24T05:56:58Z",
   "stats": {
-    "totalUsed": 71,
+    "totalUsed": 72,
     "cleanupCount": 10
   }
 }
