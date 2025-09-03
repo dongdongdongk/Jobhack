@@ -567,11 +567,19 @@
       "upvotes": 1492,
       "usedAt": "2025-09-03T02:08:18.452Z",
       "url": "https://reddit.com/r/jobs/comments/1n6rtnj/i_got_the_wrong_details_about_the_starting_date/"
+    },
+    {
+      "id": "1n6wq8f",
+      "title": "A bachelors degree in business management and I can't find work. I was just declined to work at a storage facility. I give up.",
+      "subreddit": "jobs",
+      "upvotes": 470,
+      "usedAt": "2025-09-03T13:46:46.579Z",
+      "url": "https://reddit.com/r/jobs/comments/1n6wq8f/a_bachelors_degree_in_business_management_and_i/"
     }
   ],
   "lastCleanup": "2025-08-24T05:56:58Z",
   "stats": {
-    "totalUsed": 74,
+    "totalUsed": 75,
     "cleanupCount": 10
   }
 }

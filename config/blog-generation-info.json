@@ -1,21 +1,21 @@
 {
   "date": "2025-09-03",
-  "timestamp": "2025-09-03T02:08:32.800Z",
-  "executionTimeMs": 16251,
+  "timestamp": "2025-09-03T13:47:07.905Z",
+  "executionTimeMs": 22702,
   "blog": {
-    "title": "Fired Over Start Date Mix-Up: My Costly Mistake",
-    "filename": "20250903-0208-jobs-i-got-the-wrong-details-about-.md",
-    "path": "/home/runner/work/Jobhack/Jobhack/content/posts/20250903-0208-jobs-i-got-the-wrong-details-about-.md",
-    "contentLength": 3302,
-    "wordCount": 456
+    "title": "Business Degree Blues: Job Hunt Frustrations Explored",
+    "filename": "20250903-1347-jobs-a-bachelors-degree-in-business.md",
+    "path": "/home/runner/work/Jobhack/Jobhack/content/posts/20250903-1347-jobs-a-bachelors-degree-in-business.md",
+    "contentLength": 3371,
+    "wordCount": 451
   },
   "source": {
     "subreddit": "jobs",
-    "originalTitle": "I got the wrong details about  the starting date and now I got fired for it",
-    "originalUrl": "https://reddit.com/r/jobs/comments/1n6rtnj/i_got_the_wrong_details_about_the_starting_date/",
+    "originalTitle": "A bachelors degree in business management and I can't find work. I was just declined to work at a storage facility. I give up.",
+    "originalUrl": "https://reddit.com/r/jobs/comments/1n6wq8f/a_bachelors_degree_in_business_management_and_i/",
     "engagement": {
-      "upvotes": 1492,
-      "comments": 500
+      "upvotes": 470,
+      "comments": 167
     }
   },
   "stats": {
