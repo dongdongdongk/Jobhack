@@ -575,11 +575,19 @@
       "upvotes": 470,
       "usedAt": "2025-09-03T13:46:46.579Z",
       "url": "https://reddit.com/r/jobs/comments/1n6wq8f/a_bachelors_degree_in_business_management_and_i/"
+    },
+    {
+      "id": "1n735ds",
+      "title": "I abruptly quit my job and now I’m doomed",
+      "subreddit": "jobs",
+      "upvotes": 404,
+      "usedAt": "2025-09-03T17:49:01.870Z",
+      "url": "https://reddit.com/r/jobs/comments/1n735ds/i_abruptly_quit_my_job_and_now_im_doomed/"
     }
   ],
   "lastCleanup": "2025-08-24T05:56:58Z",
   "stats": {
-    "totalUsed": 75,
+    "totalUsed": 76,
     "cleanupCount": 10
   }
 }
