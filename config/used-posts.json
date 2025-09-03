@@ -559,11 +559,19 @@
       "upvotes": 119,
       "usedAt": "2025-09-02T17:48:57.117Z",
       "url": "https://reddit.com/r/jobs/comments/1n6m9wc/is_it_normal_to_not_be_friends_with_anyone_at_work/"
+    },
+    {
+      "id": "1n6rtnj",
+      "title": "I got the wrong details about  the starting date and now I got fired for it",
+      "subreddit": "jobs",
+      "upvotes": 1492,
+      "usedAt": "2025-09-03T02:08:18.452Z",
+      "url": "https://reddit.com/r/jobs/comments/1n6rtnj/i_got_the_wrong_details_about_the_starting_date/"
     }
   ],
   "lastCleanup": "2025-08-24T05:56:58Z",
   "stats": {
-    "totalUsed": 73,
+    "totalUsed": 74,
     "cleanupCount": 10
   }
 }
