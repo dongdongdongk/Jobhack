@@ -599,11 +599,19 @@
       "upvotes": 105,
       "usedAt": "2025-09-04T13:46:14.933Z",
       "url": "https://reddit.com/r/jobs/comments/1n7qr69/my_parents_dont_understand_how_hard_it_is_to_get/"
+    },
+    {
+      "id": "1n87tzl",
+      "title": "The US now has more unemployed people than job openings for the first time since April 2021.",
+      "subreddit": "jobs",
+      "upvotes": 395,
+      "usedAt": "2025-09-04T17:49:17.351Z",
+      "url": "https://reddit.com/r/jobs/comments/1n87tzl/the_us_now_has_more_unemployed_people_than_job/"
     }
   ],
   "lastCleanup": "2025-08-24T05:56:58Z",
   "stats": {
-    "totalUsed": 78,
+    "totalUsed": 79,
     "cleanupCount": 10
   }
 }

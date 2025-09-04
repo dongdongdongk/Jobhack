@@ -1,21 +1,21 @@
 {
   "date": "2025-09-04",
-  "timestamp": "2025-09-04T13:46:28.945Z",
-  "executionTimeMs": 15290,
+  "timestamp": "2025-09-04T17:49:31.387Z",
+  "executionTimeMs": 15680,
   "blog": {
-    "title": "Job Hunt Struggles: Explaining to Unaware Parents",
-    "filename": "20250904-1346-jobs-my-parents-dont-understand-how.md",
-    "path": "/home/runner/work/Jobhack/Jobhack/content/posts/20250904-1346-jobs-my-parents-dont-understand-how.md",
-    "contentLength": 3050,
-    "wordCount": 414
+    "title": "US Unemployment Surpasses Job Openings: A 2023 Milestone",
+    "filename": "20250904-1749-jobs-the-us-now-has-more-unemployed.md",
+    "path": "/home/runner/work/Jobhack/Jobhack/content/posts/20250904-1749-jobs-the-us-now-has-more-unemployed.md",
+    "contentLength": 3431,
+    "wordCount": 434
   },
   "source": {
     "subreddit": "jobs",
-    "originalTitle": "My parents don't understand how hard it is to get a job.",
-    "originalUrl": "https://reddit.com/r/jobs/comments/1n7qr69/my_parents_dont_understand_how_hard_it_is_to_get/",
+    "originalTitle": "The US now has more unemployed people than job openings for the first time since April 2021.",
+    "originalUrl": "https://reddit.com/r/jobs/comments/1n87tzl/the_us_now_has_more_unemployed_people_than_job/",
     "engagement": {
-      "upvotes": 105,
-      "comments": 19
+      "upvotes": 395,
+      "comments": 87
     }
   },
   "stats": {
