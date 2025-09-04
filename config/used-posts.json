@@ -583,11 +583,19 @@
       "upvotes": 404,
       "usedAt": "2025-09-03T17:49:01.870Z",
       "url": "https://reddit.com/r/jobs/comments/1n735ds/i_abruptly_quit_my_job_and_now_im_doomed/"
+    },
+    {
+      "id": "1n7s52p",
+      "title": "[Article] Confirmed: America is in a serious jobs slump",
+      "subreddit": "jobs",
+      "upvotes": 440,
+      "usedAt": "2025-09-04T02:08:29.733Z",
+      "url": "https://reddit.com/r/jobs/comments/1n7s52p/article_confirmed_america_is_in_a_serious_jobs/"
     }
   ],
   "lastCleanup": "2025-08-24T05:56:58Z",
   "stats": {
-    "totalUsed": 76,
+    "totalUsed": 77,
     "cleanupCount": 10
   }
 }

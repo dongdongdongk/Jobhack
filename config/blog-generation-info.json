@@ -1,21 +1,21 @@
 {
-  "date": "2025-09-03",
-  "timestamp": "2025-09-03T17:49:13.472Z",
-  "executionTimeMs": 12856,
+  "date": "2025-09-04",
+  "timestamp": "2025-09-04T02:08:40.952Z",
+  "executionTimeMs": 12648,
   "blog": {
-    "title": "I Quit My Job Suddenly: Navigating the Fallout",
-    "filename": "20250903-1749-jobs-i-abruptly-quit-my-job-and-now.md",
-    "path": "/home/runner/work/Jobhack/Jobhack/content/posts/20250903-1749-jobs-i-abruptly-quit-my-job-and-now.md",
-    "contentLength": 3187,
-    "wordCount": 438
+    "title": "US Job Market Crisis: Alarming Slump Confirmed",
+    "filename": "20250904-0208-jobs-article-confirmed-america-is-i.md",
+    "path": "/home/runner/work/Jobhack/Jobhack/content/posts/20250904-0208-jobs-article-confirmed-america-is-i.md",
+    "contentLength": 3275,
+    "wordCount": 437
   },
   "source": {
     "subreddit": "jobs",
-    "originalTitle": "I abruptly quit my job and now I’m doomed",
-    "originalUrl": "https://reddit.com/r/jobs/comments/1n735ds/i_abruptly_quit_my_job_and_now_im_doomed/",
+    "originalTitle": "[Article] Confirmed: America is in a serious jobs slump",
+    "originalUrl": "https://reddit.com/r/jobs/comments/1n7s52p/article_confirmed_america_is_in_a_serious_jobs/",
     "engagement": {
-      "upvotes": 404,
-      "comments": 110
+      "upvotes": 440,
+      "comments": 44
     }
   },
   "stats": {
