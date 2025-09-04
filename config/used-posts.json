@@ -591,11 +591,19 @@
       "upvotes": 440,
       "usedAt": "2025-09-04T02:08:29.733Z",
       "url": "https://reddit.com/r/jobs/comments/1n7s52p/article_confirmed_america_is_in_a_serious_jobs/"
+    },
+    {
+      "id": "1n7qr69",
+      "title": "My parents don't understand how hard it is to get a job.",
+      "subreddit": "jobs",
+      "upvotes": 105,
+      "usedAt": "2025-09-04T13:46:14.933Z",
+      "url": "https://reddit.com/r/jobs/comments/1n7qr69/my_parents_dont_understand_how_hard_it_is_to_get/"
     }
   ],
   "lastCleanup": "2025-08-24T05:56:58Z",
   "stats": {
-    "totalUsed": 77,
+    "totalUsed": 78,
     "cleanupCount": 10
   }
 }

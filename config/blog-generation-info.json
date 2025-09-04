@@ -1,21 +1,21 @@
 {
   "date": "2025-09-04",
-  "timestamp": "2025-09-04T02:08:40.952Z",
-  "executionTimeMs": 12648,
+  "timestamp": "2025-09-04T13:46:28.945Z",
+  "executionTimeMs": 15290,
   "blog": {
-    "title": "US Job Market Crisis: Alarming Slump Confirmed",
-    "filename": "20250904-0208-jobs-article-confirmed-america-is-i.md",
-    "path": "/home/runner/work/Jobhack/Jobhack/content/posts/20250904-0208-jobs-article-confirmed-america-is-i.md",
-    "contentLength": 3275,
-    "wordCount": 437
+    "title": "Job Hunt Struggles: Explaining to Unaware Parents",
+    "filename": "20250904-1346-jobs-my-parents-dont-understand-how.md",
+    "path": "/home/runner/work/Jobhack/Jobhack/content/posts/20250904-1346-jobs-my-parents-dont-understand-how.md",
+    "contentLength": 3050,
+    "wordCount": 414
   },
   "source": {
     "subreddit": "jobs",
-    "originalTitle": "[Article] Confirmed: America is in a serious jobs slump",
-    "originalUrl": "https://reddit.com/r/jobs/comments/1n7s52p/article_confirmed_america_is_in_a_serious_jobs/",
+    "originalTitle": "My parents don't understand how hard it is to get a job.",
+    "originalUrl": "https://reddit.com/r/jobs/comments/1n7qr69/my_parents_dont_understand_how_hard_it_is_to_get/",
     "engagement": {
-      "upvotes": 440,
-      "comments": 44
+      "upvotes": 105,
+      "comments": 19
     }
   },
   "stats": {
