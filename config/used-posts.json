@@ -607,11 +607,19 @@
       "upvotes": 395,
       "usedAt": "2025-09-04T17:49:17.351Z",
       "url": "https://reddit.com/r/jobs/comments/1n87tzl/the_us_now_has_more_unemployed_people_than_job/"
+    },
+    {
+      "id": "1n8lik6",
+      "title": "MIT says AI isn’t replacing you… it’s just wasting your boss’s money",
+      "subreddit": "jobs",
+      "upvotes": 455,
+      "usedAt": "2025-09-05T02:12:04.663Z",
+      "url": "https://reddit.com/r/jobs/comments/1n8lik6/mit_says_ai_isnt_replacing_you_its_just_wasting/"
     }
   ],
   "lastCleanup": "2025-08-24T05:56:58Z",
   "stats": {
-    "totalUsed": 79,
+    "totalUsed": 80,
     "cleanupCount": 10
   }
 }

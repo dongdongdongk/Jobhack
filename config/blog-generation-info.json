@@ -1,21 +1,21 @@
 {
-  "date": "2025-09-04",
-  "timestamp": "2025-09-04T17:49:31.387Z",
-  "executionTimeMs": 15680,
+  "date": "2025-09-05",
+  "timestamp": "2025-09-05T02:12:20.810Z",
+  "executionTimeMs": 17741,
   "blog": {
-    "title": "US Unemployment Surpasses Job Openings: A 2023 Milestone",
-    "filename": "20250904-1749-jobs-the-us-now-has-more-unemployed.md",
-    "path": "/home/runner/work/Jobhack/Jobhack/content/posts/20250904-1749-jobs-the-us-now-has-more-unemployed.md",
-    "contentLength": 3431,
-    "wordCount": 434
+    "title": "MIT: AI Won't Replace You, It's Draining Your Boss's Budget",
+    "filename": "20250905-0212-jobs-mit-says-ai-isnt-replacing-you.md",
+    "path": "/home/runner/work/Jobhack/Jobhack/content/posts/20250905-0212-jobs-mit-says-ai-isnt-replacing-you.md",
+    "contentLength": 3250,
+    "wordCount": 440
   },
   "source": {
     "subreddit": "jobs",
-    "originalTitle": "The US now has more unemployed people than job openings for the first time since April 2021.",
-    "originalUrl": "https://reddit.com/r/jobs/comments/1n87tzl/the_us_now_has_more_unemployed_people_than_job/",
+    "originalTitle": "MIT says AI isn’t replacing you… it’s just wasting your boss’s money",
+    "originalUrl": "https://reddit.com/r/jobs/comments/1n8lik6/mit_says_ai_isnt_replacing_you_its_just_wasting/",
     "engagement": {
-      "upvotes": 395,
-      "comments": 87
+      "upvotes": 455,
+      "comments": 34
     }
   },
   "stats": {
