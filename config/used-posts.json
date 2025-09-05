@@ -615,11 +615,19 @@
       "upvotes": 455,
       "usedAt": "2025-09-05T02:12:04.663Z",
       "url": "https://reddit.com/r/jobs/comments/1n8lik6/mit_says_ai_isnt_replacing_you_its_just_wasting/"
+    },
+    {
+      "id": "1n8l6jw",
+      "title": "Terminated and still have a key, they don’t want it mailed",
+      "subreddit": "jobs",
+      "upvotes": 846,
+      "usedAt": "2025-09-05T13:45:46.123Z",
+      "url": "https://reddit.com/r/jobs/comments/1n8l6jw/terminated_and_still_have_a_key_they_dont_want_it/"
     }
   ],
   "lastCleanup": "2025-08-24T05:56:58Z",
   "stats": {
-    "totalUsed": 80,
+    "totalUsed": 81,
     "cleanupCount": 10
   }
 }
