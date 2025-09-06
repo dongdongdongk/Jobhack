@@ -639,11 +639,19 @@
       "upvotes": 798,
       "usedAt": "2025-09-06T02:08:18.281Z",
       "url": "https://reddit.com/r/jobs/comments/1n9buv7/i_feel_horrible/"
+    },
+    {
+      "id": "1n9540x",
+      "title": "US job growth weakened sharply in August; unemployment rate rises to 4.3%",
+      "subreddit": "jobs",
+      "upvotes": 799,
+      "usedAt": "2025-09-06T13:43:03.289Z",
+      "url": "https://reddit.com/r/jobs/comments/1n9540x/us_job_growth_weakened_sharply_in_august/"
     }
   ],
   "lastCleanup": "2025-08-24T05:56:58Z",
   "stats": {
-    "totalUsed": 83,
+    "totalUsed": 84,
     "cleanupCount": 10
   }
 }
