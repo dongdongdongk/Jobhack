@@ -647,11 +647,19 @@
       "upvotes": 799,
       "usedAt": "2025-09-06T13:43:03.289Z",
       "url": "https://reddit.com/r/jobs/comments/1n9540x/us_job_growth_weakened_sharply_in_august/"
+    },
+    {
+      "id": "1n9z8os",
+      "title": "This is getting ridiculous at this point",
+      "subreddit": "jobs",
+      "upvotes": 790,
+      "usedAt": "2025-09-06T17:48:47.669Z",
+      "url": "https://reddit.com/r/jobs/comments/1n9z8os/this_is_getting_ridiculous_at_this_point/"
     }
   ],
   "lastCleanup": "2025-08-24T05:56:58Z",
   "stats": {
-    "totalUsed": 84,
+    "totalUsed": 85,
     "cleanupCount": 10
   }
 }
