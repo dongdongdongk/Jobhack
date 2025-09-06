@@ -631,11 +631,19 @@
       "upvotes": 877,
       "usedAt": "2025-09-05T17:49:03.637Z",
       "url": "https://reddit.com/r/jobs/comments/1n8pm9t/we_are_in_recession/"
+    },
+    {
+      "id": "1n9buv7",
+      "title": "I feel horrible 😔",
+      "subreddit": "jobs",
+      "upvotes": 798,
+      "usedAt": "2025-09-06T02:08:18.281Z",
+      "url": "https://reddit.com/r/jobs/comments/1n9buv7/i_feel_horrible/"
     }
   ],
   "lastCleanup": "2025-08-24T05:56:58Z",
   "stats": {
-    "totalUsed": 82,
+    "totalUsed": 83,
     "cleanupCount": 10
   }
 }
