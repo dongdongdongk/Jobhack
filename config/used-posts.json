@@ -655,11 +655,19 @@
       "upvotes": 790,
       "usedAt": "2025-09-06T17:48:47.669Z",
       "url": "https://reddit.com/r/jobs/comments/1n9z8os/this_is_getting_ridiculous_at_this_point/"
+    },
+    {
+      "id": "1n9vaa6",
+      "title": "Anyone else…no longer care?",
+      "subreddit": "jobs",
+      "upvotes": 320,
+      "usedAt": "2025-09-07T02:17:01.518Z",
+      "url": "https://reddit.com/r/jobs/comments/1n9vaa6/anyone_elseno_longer_care/"
     }
   ],
   "lastCleanup": "2025-08-24T05:56:58Z",
   "stats": {
-    "totalUsed": 85,
+    "totalUsed": 86,
     "cleanupCount": 10
   }
 }
