@@ -679,11 +679,19 @@
       "upvotes": 174,
       "usedAt": "2025-09-07T17:49:00.598Z",
       "url": "https://reddit.com/r/jobs/comments/1nafc34/gonna_end_up_homeless_this_week_couldnt_find_work/"
+    },
+    {
+      "id": "1nb7s7k",
+      "title": "Anyone else blame our current administration for the bullshit we're facing?",
+      "subreddit": "jobs",
+      "upvotes": 712,
+      "usedAt": "2025-09-08T02:17:54.563Z",
+      "url": "https://reddit.com/r/jobs/comments/1nb7s7k/anyone_else_blame_our_current_administration_for/"
     }
   ],
   "lastCleanup": "2025-08-24T05:56:58Z",
   "stats": {
-    "totalUsed": 88,
+    "totalUsed": 89,
     "cleanupCount": 10
   }
 }
