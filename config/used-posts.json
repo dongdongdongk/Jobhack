@@ -687,11 +687,19 @@
       "upvotes": 712,
       "usedAt": "2025-09-08T02:17:54.563Z",
       "url": "https://reddit.com/r/jobs/comments/1nb7s7k/anyone_else_blame_our_current_administration_for/"
+    },
+    {
+      "id": "1nayy7y",
+      "title": "I have nothing to do at work",
+      "subreddit": "jobs",
+      "upvotes": 664,
+      "usedAt": "2025-09-08T13:48:30.582Z",
+      "url": "https://reddit.com/r/jobs/comments/1nayy7y/i_have_nothing_to_do_at_work/"
     }
   ],
   "lastCleanup": "2025-08-24T05:56:58Z",
   "stats": {
-    "totalUsed": 89,
+    "totalUsed": 90,
     "cleanupCount": 10
   }
 }
