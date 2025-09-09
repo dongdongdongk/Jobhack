@@ -703,11 +703,19 @@
       "upvotes": 516,
       "usedAt": "2025-09-08T17:48:50.994Z",
       "url": "https://reddit.com/r/jobs/comments/1nb26l9/corporate_culture_is_fake/"
+    },
+    {
+      "id": "1nbs7xy",
+      "title": "CEO Says \"Return To Office Or Resign\" As Up To 3000 Layoffs Announced",
+      "subreddit": "jobs",
+      "upvotes": 897,
+      "usedAt": "2025-09-09T02:13:58.754Z",
+      "url": "https://reddit.com/r/jobs/comments/1nbs7xy/ceo_says_return_to_office_or_resign_as_up_to_3000/"
     }
   ],
   "lastCleanup": "2025-08-24T05:56:58Z",
   "stats": {
-    "totalUsed": 91,
+    "totalUsed": 92,
     "cleanupCount": 10
   }
 }
