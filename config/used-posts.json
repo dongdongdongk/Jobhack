@@ -719,11 +719,19 @@
       "upvotes": 507,
       "usedAt": "2025-09-09T13:50:45.067Z",
       "url": "https://reddit.com/r/jobs/comments/1nc26yc/jobs_picture_is_really_ugly_us_employers_have/"
+    },
+    {
+      "id": "1nbze7v",
+      "title": "The Job Market Is Hell. Young people are using ChatGPT to write their applications; HR is using AI to read them; no one is getting hired.",
+      "subreddit": "jobs",
+      "upvotes": 433,
+      "usedAt": "2025-09-09T17:49:07.151Z",
+      "url": "https://reddit.com/r/jobs/comments/1nbze7v/the_job_market_is_hell_young_people_are_using/"
     }
   ],
   "lastCleanup": "2025-08-24T05:56:58Z",
   "stats": {
-    "totalUsed": 93,
+    "totalUsed": 94,
     "cleanupCount": 10
   }
 }
