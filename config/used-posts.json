@@ -727,11 +727,19 @@
       "upvotes": 433,
       "usedAt": "2025-09-09T17:49:07.151Z",
       "url": "https://reddit.com/r/jobs/comments/1nbze7v/the_job_market_is_hell_young_people_are_using/"
+    },
+    {
+      "id": "1ncryz4",
+      "title": "20 years later, back at McDonald's - Wish me luck!",
+      "subreddit": "jobs",
+      "upvotes": 768,
+      "usedAt": "2025-09-10T02:09:12.808Z",
+      "url": "https://reddit.com/r/jobs/comments/1ncryz4/20_years_later_back_at_mcdonalds_wish_me_luck/"
     }
   ],
   "lastCleanup": "2025-08-24T05:56:58Z",
   "stats": {
-    "totalUsed": 94,
+    "totalUsed": 95,
     "cleanupCount": 10
   }
 }
