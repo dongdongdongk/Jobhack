@@ -743,11 +743,19 @@
       "upvotes": 937,
       "usedAt": "2025-09-10T13:45:36.076Z",
       "url": "https://reddit.com/r/jobs/comments/1nco3t1/being_unemployed_is_socially_isolating/"
+    },
+    {
+      "id": "1ndbiyp",
+      "title": "We are on the decline.",
+      "subreddit": "jobs",
+      "upvotes": 278,
+      "usedAt": "2025-09-10T17:49:05.907Z",
+      "url": "https://reddit.com/r/jobs/comments/1ndbiyp/we_are_on_the_decline/"
     }
   ],
   "lastCleanup": "2025-08-24T05:56:58Z",
   "stats": {
-    "totalUsed": 96,
+    "totalUsed": 97,
     "cleanupCount": 10
   }
 }
