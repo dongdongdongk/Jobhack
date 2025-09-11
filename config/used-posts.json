@@ -751,11 +751,19 @@
       "upvotes": 278,
       "usedAt": "2025-09-10T17:49:05.907Z",
       "url": "https://reddit.com/r/jobs/comments/1ndbiyp/we_are_on_the_decline/"
+    },
+    {
+      "id": "1ndgku6",
+      "title": "I got it.  I GOT IT!!!!",
+      "subreddit": "jobs",
+      "upvotes": 585,
+      "usedAt": "2025-09-11T02:12:39.882Z",
+      "url": "https://reddit.com/r/jobs/comments/1ndgku6/i_got_it_i_got_it/"
     }
   ],
   "lastCleanup": "2025-08-24T05:56:58Z",
   "stats": {
-    "totalUsed": 97,
+    "totalUsed": 98,
     "cleanupCount": 10
   }
 }
