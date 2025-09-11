@@ -759,11 +759,19 @@
       "upvotes": 585,
       "usedAt": "2025-09-11T02:12:39.882Z",
       "url": "https://reddit.com/r/jobs/comments/1ndgku6/i_got_it_i_got_it/"
+    },
+    {
+      "id": "1ndtg89",
+      "title": "Got hired less than 3 weeks ago, and was just told Friday is my last day",
+      "subreddit": "jobs",
+      "upvotes": 525,
+      "usedAt": "2025-09-11T13:44:13.567Z",
+      "url": "https://reddit.com/r/jobs/comments/1ndtg89/got_hired_less_than_3_weeks_ago_and_was_just_told/"
     }
   ],
   "lastCleanup": "2025-08-24T05:56:58Z",
   "stats": {
-    "totalUsed": 98,
+    "totalUsed": 99,
     "cleanupCount": 10
   }
 }
