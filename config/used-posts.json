@@ -767,11 +767,19 @@
       "upvotes": 525,
       "usedAt": "2025-09-11T13:44:13.567Z",
       "url": "https://reddit.com/r/jobs/comments/1ndtg89/got_hired_less_than_3_weeks_ago_and_was_just_told/"
+    },
+    {
+      "id": "1ndqnjn",
+      "title": "Starting over",
+      "subreddit": "jobs",
+      "upvotes": 362,
+      "usedAt": "2025-09-11T17:48:58.750Z",
+      "url": "https://reddit.com/r/jobs/comments/1ndqnjn/starting_over/"
     }
   ],
   "lastCleanup": "2025-08-24T05:56:58Z",
   "stats": {
-    "totalUsed": 99,
+    "totalUsed": 100,
     "cleanupCount": 10
   }
 }
