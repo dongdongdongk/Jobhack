@@ -783,11 +783,19 @@
       "upvotes": 1037,
       "usedAt": "2025-09-12T02:08:04.871Z",
       "url": "https://reddit.com/r/jobs/comments/1nek3kc/got_fired_for_taking_an_interview/"
+    },
+    {
+      "id": "1nenw9g",
+      "title": "I GOT A JOB AFTER BEING JOBLESS FOR YEARS!!",
+      "subreddit": "jobs",
+      "upvotes": 421,
+      "usedAt": "2025-09-12T13:45:01.944Z",
+      "url": "https://reddit.com/r/jobs/comments/1nenw9g/i_got_a_job_after_being_jobless_for_years/"
     }
   ],
   "lastCleanup": "2025-08-24T05:56:58Z",
   "stats": {
-    "totalUsed": 101,
+    "totalUsed": 102,
     "cleanupCount": 10
   }
 }
