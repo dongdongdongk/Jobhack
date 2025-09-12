@@ -791,11 +791,19 @@
       "upvotes": 421,
       "usedAt": "2025-09-12T13:45:01.944Z",
       "url": "https://reddit.com/r/jobs/comments/1nenw9g/i_got_a_job_after_being_jobless_for_years/"
+    },
+    {
+      "id": "1nehqg7",
+      "title": "Job market's tough, should I just live a life at sea?",
+      "subreddit": "jobs",
+      "upvotes": 419,
+      "usedAt": "2025-09-12T17:48:31.033Z",
+      "url": "https://reddit.com/r/jobs/comments/1nehqg7/job_markets_tough_should_i_just_live_a_life_at_sea/"
     }
   ],
   "lastCleanup": "2025-08-24T05:56:58Z",
   "stats": {
-    "totalUsed": 102,
+    "totalUsed": 103,
     "cleanupCount": 10
   }
 }
