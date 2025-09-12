@@ -775,11 +775,19 @@
       "upvotes": 362,
       "usedAt": "2025-09-11T17:48:58.750Z",
       "url": "https://reddit.com/r/jobs/comments/1ndqnjn/starting_over/"
+    },
+    {
+      "id": "1nek3kc",
+      "title": "Got fired for taking an interview.",
+      "subreddit": "jobs",
+      "upvotes": 1037,
+      "usedAt": "2025-09-12T02:08:04.871Z",
+      "url": "https://reddit.com/r/jobs/comments/1nek3kc/got_fired_for_taking_an_interview/"
     }
   ],
   "lastCleanup": "2025-08-24T05:56:58Z",
   "stats": {
-    "totalUsed": 100,
+    "totalUsed": 101,
     "cleanupCount": 10
   }
 }
