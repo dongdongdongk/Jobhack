@@ -807,11 +807,19 @@
       "upvotes": 293,
       "usedAt": "2025-09-13T02:03:23.412Z",
       "url": "https://reddit.com/r/jobs/comments/1nfe8r2/entry_level_jobs_have_turned_out_to_be_a_complete/"
+    },
+    {
+      "id": "1nfqibl",
+      "title": "Creativity kills curiosity",
+      "subreddit": "jobs",
+      "upvotes": 773,
+      "usedAt": "2025-09-13T13:42:39.345Z",
+      "url": "https://reddit.com/r/jobs/comments/1nfqibl/creativity_kills_curiosity/"
     }
   ],
   "lastCleanup": "2025-08-24T05:56:58Z",
   "stats": {
-    "totalUsed": 104,
+    "totalUsed": 105,
     "cleanupCount": 10
   }
 }
