@@ -815,11 +815,19 @@
       "upvotes": 773,
       "usedAt": "2025-09-13T13:42:39.345Z",
       "url": "https://reddit.com/r/jobs/comments/1nfqibl/creativity_kills_curiosity/"
+    },
+    {
+      "id": "1nfg56b",
+      "title": "Tinderification of the job market. Is the job market turning into the dating market?",
+      "subreddit": "jobs",
+      "upvotes": 271,
+      "usedAt": "2025-09-13T17:48:48.905Z",
+      "url": "https://reddit.com/r/jobs/comments/1nfg56b/tinderification_of_the_job_market_is_the_job/"
     }
   ],
   "lastCleanup": "2025-08-24T05:56:58Z",
   "stats": {
-    "totalUsed": 105,
+    "totalUsed": 106,
     "cleanupCount": 10
   }
 }
