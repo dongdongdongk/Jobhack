@@ -799,11 +799,19 @@
       "upvotes": 419,
       "usedAt": "2025-09-12T17:48:31.033Z",
       "url": "https://reddit.com/r/jobs/comments/1nehqg7/job_markets_tough_should_i_just_live_a_life_at_sea/"
+    },
+    {
+      "id": "1nfe8r2",
+      "title": "“Entry level jobs” have turned out to be a complete lie of a concept",
+      "subreddit": "jobs",
+      "upvotes": 293,
+      "usedAt": "2025-09-13T02:03:23.412Z",
+      "url": "https://reddit.com/r/jobs/comments/1nfe8r2/entry_level_jobs_have_turned_out_to_be_a_complete/"
     }
   ],
   "lastCleanup": "2025-08-24T05:56:58Z",
   "stats": {
-    "totalUsed": 103,
+    "totalUsed": 104,
     "cleanupCount": 10
   }
 }
