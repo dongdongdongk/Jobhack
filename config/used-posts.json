@@ -831,11 +831,19 @@
       "upvotes": 225,
       "usedAt": "2025-09-14T02:16:41.068Z",
       "url": "https://reddit.com/r/jobs/comments/1ng5uyq/im_sorry_but_a_5year_vesting_period_for_a_401k/"
+    },
+    {
+      "id": "1nfz3mx",
+      "title": "Applied to 200+ jobs, 0 interviews",
+      "subreddit": "jobs",
+      "upvotes": 476,
+      "usedAt": "2025-09-14T13:43:05.502Z",
+      "url": "https://reddit.com/r/jobs/comments/1nfz3mx/applied_to_200_jobs_0_interviews/"
     }
   ],
   "lastCleanup": "2025-08-24T05:56:58Z",
   "stats": {
-    "totalUsed": 107,
+    "totalUsed": 108,
     "cleanupCount": 10
   }
 }
