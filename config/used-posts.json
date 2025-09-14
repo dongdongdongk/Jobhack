@@ -823,11 +823,19 @@
       "upvotes": 271,
       "usedAt": "2025-09-13T17:48:48.905Z",
       "url": "https://reddit.com/r/jobs/comments/1nfg56b/tinderification_of_the_job_market_is_the_job/"
+    },
+    {
+      "id": "1ng5uyq",
+      "title": "I'm sorry but a 5-year vesting period for a 401k match is laughable",
+      "subreddit": "jobs",
+      "upvotes": 225,
+      "usedAt": "2025-09-14T02:16:41.068Z",
+      "url": "https://reddit.com/r/jobs/comments/1ng5uyq/im_sorry_but_a_5year_vesting_period_for_a_401k/"
     }
   ],
   "lastCleanup": "2025-08-24T05:56:58Z",
   "stats": {
-    "totalUsed": 106,
+    "totalUsed": 107,
     "cleanupCount": 10
   }
 }
