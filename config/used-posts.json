@@ -839,11 +839,19 @@
       "upvotes": 476,
       "usedAt": "2025-09-14T13:43:05.502Z",
       "url": "https://reddit.com/r/jobs/comments/1nfz3mx/applied_to_200_jobs_0_interviews/"
+    },
+    {
+      "id": "1ng6042",
+      "title": "DOGE spent months slashing jobs. Now its leader says the government needs to hire again",
+      "subreddit": "jobs",
+      "upvotes": 491,
+      "usedAt": "2025-09-14T17:49:13.214Z",
+      "url": "https://reddit.com/r/jobs/comments/1ng6042/doge_spent_months_slashing_jobs_now_its_leader/"
     }
   ],
   "lastCleanup": "2025-08-24T05:56:58Z",
   "stats": {
-    "totalUsed": 108,
+    "totalUsed": 109,
     "cleanupCount": 10
   }
 }
