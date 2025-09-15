@@ -855,11 +855,19 @@
       "upvotes": 493,
       "usedAt": "2025-09-15T02:18:57.415Z",
       "url": "https://reddit.com/r/jobs/comments/1ngygv0/this_is_getting_out_of_pocket_now/"
+    },
+    {
+      "id": "1ngu2ar",
+      "title": "Anyone else embarrassed about where they work?",
+      "subreddit": "jobs",
+      "upvotes": 514,
+      "usedAt": "2025-09-15T13:45:30.696Z",
+      "url": "https://reddit.com/r/jobs/comments/1ngu2ar/anyone_else_embarrassed_about_where_they_work/"
     }
   ],
   "lastCleanup": "2025-08-24T05:56:58Z",
   "stats": {
-    "totalUsed": 110,
+    "totalUsed": 111,
     "cleanupCount": 10
   }
 }
