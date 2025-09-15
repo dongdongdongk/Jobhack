@@ -863,11 +863,19 @@
       "upvotes": 514,
       "usedAt": "2025-09-15T13:45:30.696Z",
       "url": "https://reddit.com/r/jobs/comments/1ngu2ar/anyone_else_embarrassed_about_where_they_work/"
+    },
+    {
+      "id": "1nhnx4g",
+      "title": "Tesla sued for favoring H1B over US citizens",
+      "subreddit": "jobs",
+      "upvotes": 675,
+      "usedAt": "2025-09-15T17:48:57.678Z",
+      "url": "https://reddit.com/r/jobs/comments/1nhnx4g/tesla_sued_for_favoring_h1b_over_us_citizens/"
     }
   ],
   "lastCleanup": "2025-08-24T05:56:58Z",
   "stats": {
-    "totalUsed": 111,
+    "totalUsed": 112,
     "cleanupCount": 10
   }
 }
