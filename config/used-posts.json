@@ -847,11 +847,19 @@
       "upvotes": 491,
       "usedAt": "2025-09-14T17:49:13.214Z",
       "url": "https://reddit.com/r/jobs/comments/1ng6042/doge_spent_months_slashing_jobs_now_its_leader/"
+    },
+    {
+      "id": "1ngygv0",
+      "title": "This is getting out of pocket now.",
+      "subreddit": "jobs",
+      "upvotes": 493,
+      "usedAt": "2025-09-15T02:18:57.415Z",
+      "url": "https://reddit.com/r/jobs/comments/1ngygv0/this_is_getting_out_of_pocket_now/"
     }
   ],
   "lastCleanup": "2025-08-24T05:56:58Z",
   "stats": {
-    "totalUsed": 109,
+    "totalUsed": 110,
     "cleanupCount": 10
   }
 }
