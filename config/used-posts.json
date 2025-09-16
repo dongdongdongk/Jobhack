@@ -879,11 +879,19 @@
       "upvotes": 1042,
       "usedAt": "2025-09-16T02:10:11.255Z",
       "url": "https://reddit.com/r/jobs/comments/1nhm4o2/quit_my_job_suddenly_via_email_boss_and_office/"
+    },
+    {
+      "id": "1nhr0sn",
+      "title": "Getting fired for denouncing facism, racism, discrimination, etc - you are being monitored",
+      "subreddit": "jobs",
+      "upvotes": 637,
+      "usedAt": "2025-09-16T13:47:59.591Z",
+      "url": "https://reddit.com/r/jobs/comments/1nhr0sn/getting_fired_for_denouncing_facism_racism/"
     }
   ],
   "lastCleanup": "2025-08-24T05:56:58Z",
   "stats": {
-    "totalUsed": 113,
+    "totalUsed": 114,
     "cleanupCount": 10
   }
 }
