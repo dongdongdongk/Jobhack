@@ -871,11 +871,19 @@
       "upvotes": 675,
       "usedAt": "2025-09-15T17:48:57.678Z",
       "url": "https://reddit.com/r/jobs/comments/1nhnx4g/tesla_sued_for_favoring_h1b_over_us_citizens/"
+    },
+    {
+      "id": "1nhm4o2",
+      "title": "Quit my job suddenly via email, boss and office manager are texting me",
+      "subreddit": "jobs",
+      "upvotes": 1042,
+      "usedAt": "2025-09-16T02:10:11.255Z",
+      "url": "https://reddit.com/r/jobs/comments/1nhm4o2/quit_my_job_suddenly_via_email_boss_and_office/"
     }
   ],
   "lastCleanup": "2025-08-24T05:56:58Z",
   "stats": {
-    "totalUsed": 112,
+    "totalUsed": 113,
     "cleanupCount": 10
   }
 }
