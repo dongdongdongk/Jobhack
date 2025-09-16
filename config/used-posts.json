@@ -887,11 +887,19 @@
       "upvotes": 637,
       "usedAt": "2025-09-16T13:47:59.591Z",
       "url": "https://reddit.com/r/jobs/comments/1nhr0sn/getting_fired_for_denouncing_facism_racism/"
+    },
+    {
+      "id": "1nhsck9",
+      "title": "16k applicants for one role…I’m losing it",
+      "subreddit": "jobs",
+      "upvotes": 305,
+      "usedAt": "2025-09-16T17:49:10.138Z",
+      "url": "https://reddit.com/r/jobs/comments/1nhsck9/16k_applicants_for_one_roleim_losing_it/"
     }
   ],
   "lastCleanup": "2025-08-24T05:56:58Z",
   "stats": {
-    "totalUsed": 114,
+    "totalUsed": 115,
     "cleanupCount": 10
   }
 }
