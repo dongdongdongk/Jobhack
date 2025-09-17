@@ -895,11 +895,19 @@
       "upvotes": 305,
       "usedAt": "2025-09-16T17:49:10.138Z",
       "url": "https://reddit.com/r/jobs/comments/1nhsck9/16k_applicants_for_one_roleim_losing_it/"
+    },
+    {
+      "id": "1niox0t",
+      "title": "AI Has Workers Clinging to Dead-End Jobs",
+      "subreddit": "jobs",
+      "upvotes": 324,
+      "usedAt": "2025-09-17T02:09:25.632Z",
+      "url": "https://reddit.com/r/jobs/comments/1niox0t/ai_has_workers_clinging_to_deadend_jobs/"
     }
   ],
   "lastCleanup": "2025-08-24T05:56:58Z",
   "stats": {
-    "totalUsed": 115,
+    "totalUsed": 116,
     "cleanupCount": 10
   }
 }

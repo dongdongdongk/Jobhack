@@ -1,21 +1,21 @@
 {
-  "date": "2025-09-16",
-  "timestamp": "2025-09-16T17:49:30.381Z",
-  "executionTimeMs": 21590,
+  "date": "2025-09-17",
+  "timestamp": "2025-09-17T02:09:50.873Z",
+  "executionTimeMs": 26557,
   "blog": {
-    "title": "16K Applicants for One Job: Navigating the Hiring Frenzy",
-    "filename": "20250916-1749-jobs-16k-applicants-for-one-roleim-.md",
-    "path": "/home/runner/work/Jobhack/Jobhack/content/posts/20250916-1749-jobs-16k-applicants-for-one-roleim-.md",
-    "contentLength": 3371,
-    "wordCount": 438
+    "title": "AI Fears: Why Workers Stay in Dead-End Jobs",
+    "filename": "20250917-0209-jobs-ai-has-workers-clinging-to-dea.md",
+    "path": "/home/runner/work/Jobhack/Jobhack/content/posts/20250917-0209-jobs-ai-has-workers-clinging-to-dea.md",
+    "contentLength": 3221,
+    "wordCount": 439
   },
   "source": {
     "subreddit": "jobs",
-    "originalTitle": "16k applicants for one role…I’m losing it",
-    "originalUrl": "https://reddit.com/r/jobs/comments/1nhsck9/16k_applicants_for_one_roleim_losing_it/",
+    "originalTitle": "AI Has Workers Clinging to Dead-End Jobs",
+    "originalUrl": "https://reddit.com/r/jobs/comments/1niox0t/ai_has_workers_clinging_to_deadend_jobs/",
     "engagement": {
-      "upvotes": 305,
-      "comments": 50
+      "upvotes": 324,
+      "comments": 44
     }
   },
   "stats": {
