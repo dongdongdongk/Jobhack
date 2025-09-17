@@ -911,11 +911,19 @@
       "upvotes": 729,
       "usedAt": "2025-09-17T13:46:33.936Z",
       "url": "https://reddit.com/r/jobs/comments/1niykr2/i_was_laid_off_yesterday_i_have_felt_nothing_but/"
+    },
+    {
+      "id": "1nis2km",
+      "title": "My wife does not understand the state of the job market right now. How can I communicate this to her?",
+      "subreddit": "jobs",
+      "upvotes": 474,
+      "usedAt": "2025-09-17T17:49:05.316Z",
+      "url": "https://reddit.com/r/jobs/comments/1nis2km/my_wife_does_not_understand_the_state_of_the_job/"
     }
   ],
   "lastCleanup": "2025-08-24T05:56:58Z",
   "stats": {
-    "totalUsed": 117,
+    "totalUsed": 118,
     "cleanupCount": 10
   }
 }
