@@ -927,11 +927,19 @@
       "upvotes": 465,
       "usedAt": "2025-09-18T02:10:01.726Z",
       "url": "https://reddit.com/r/jobs/comments/1njrskk/trump_secured_the_border_so_where_are_the_jobs/"
+    },
+    {
+      "id": "1njycgb",
+      "title": "Fed Chair Powell Says Young Workers Having 'Hard Time Finding Jobs'",
+      "subreddit": "jobs",
+      "upvotes": 508,
+      "usedAt": "2025-09-18T13:46:00.512Z",
+      "url": "https://reddit.com/r/jobs/comments/1njycgb/fed_chair_powell_says_young_workers_having_hard/"
     }
   ],
   "lastCleanup": "2025-08-24T05:56:58Z",
   "stats": {
-    "totalUsed": 119,
+    "totalUsed": 120,
     "cleanupCount": 10
   }
 }
