@@ -935,11 +935,19 @@
       "upvotes": 508,
       "usedAt": "2025-09-18T13:46:00.512Z",
       "url": "https://reddit.com/r/jobs/comments/1njycgb/fed_chair_powell_says_young_workers_having_hard/"
+    },
+    {
+      "id": "1njpde0",
+      "title": "Does anyone else get 5 vacation days a year? (USA)",
+      "subreddit": "jobs",
+      "upvotes": 107,
+      "usedAt": "2025-09-18T17:49:05.553Z",
+      "url": "https://reddit.com/r/jobs/comments/1njpde0/does_anyone_else_get_5_vacation_days_a_year_usa/"
     }
   ],
   "lastCleanup": "2025-08-24T05:56:58Z",
   "stats": {
-    "totalUsed": 120,
+    "totalUsed": 121,
     "cleanupCount": 10
   }
 }
