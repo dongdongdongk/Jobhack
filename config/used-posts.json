@@ -919,11 +919,19 @@
       "upvotes": 474,
       "usedAt": "2025-09-17T17:49:05.316Z",
       "url": "https://reddit.com/r/jobs/comments/1nis2km/my_wife_does_not_understand_the_state_of_the_job/"
+    },
+    {
+      "id": "1njrskk",
+      "title": "Trump Secured the Border, So Where Are the Jobs?",
+      "subreddit": "jobs",
+      "upvotes": 465,
+      "usedAt": "2025-09-18T02:10:01.726Z",
+      "url": "https://reddit.com/r/jobs/comments/1njrskk/trump_secured_the_border_so_where_are_the_jobs/"
     }
   ],
   "lastCleanup": "2025-08-24T05:56:58Z",
   "stats": {
-    "totalUsed": 118,
+    "totalUsed": 119,
     "cleanupCount": 10
   }
 }
