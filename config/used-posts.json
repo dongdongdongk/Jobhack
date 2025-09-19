@@ -959,11 +959,19 @@
       "upvotes": 837,
       "usedAt": "2025-09-19T13:46:34.385Z",
       "url": "https://reddit.com/r/jobs/comments/1nkcsty/get_a_degree_get_a_job_stopped_workinglabor/"
+    },
+    {
+      "id": "1nkpxoy",
+      "title": "Why is getting a job in this economy like",
+      "subreddit": "jobs",
+      "upvotes": 365,
+      "usedAt": "2025-09-19T17:48:52.037Z",
+      "url": "https://reddit.com/r/jobs/comments/1nkpxoy/why_is_getting_a_job_in_this_economy_like/"
     }
   ],
   "lastCleanup": "2025-08-24T05:56:58Z",
   "stats": {
-    "totalUsed": 123,
+    "totalUsed": 124,
     "cleanupCount": 10
   }
 }
