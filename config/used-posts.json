@@ -943,11 +943,19 @@
       "upvotes": 107,
       "usedAt": "2025-09-18T17:49:05.553Z",
       "url": "https://reddit.com/r/jobs/comments/1njpde0/does_anyone_else_get_5_vacation_days_a_year_usa/"
+    },
+    {
+      "id": "1nkkt0h",
+      "title": "Switched jobs and am regretting it so bad. PSA: you don’t need fulfillment. You just need a paycheck",
+      "subreddit": "jobs",
+      "upvotes": 796,
+      "usedAt": "2025-09-19T02:13:38.558Z",
+      "url": "https://reddit.com/r/jobs/comments/1nkkt0h/switched_jobs_and_am_regretting_it_so_bad_psa_you/"
     }
   ],
   "lastCleanup": "2025-08-24T05:56:58Z",
   "stats": {
-    "totalUsed": 121,
+    "totalUsed": 122,
     "cleanupCount": 10
   }
 }

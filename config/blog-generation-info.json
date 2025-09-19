@@ -1,21 +1,21 @@
 {
-  "date": "2025-09-18",
-  "timestamp": "2025-09-18T17:49:23.930Z",
-  "executionTimeMs": 19863,
+  "date": "2025-09-19",
+  "timestamp": "2025-09-19T02:13:49.047Z",
+  "executionTimeMs": 11702,
   "blog": {
-    "title": "Why Do Some Americans Only Get 5 Vacation Days?",
-    "filename": "20250918-1749-jobs-does-anyone-else-get-5-vacatio.md",
-    "path": "/home/runner/work/Jobhack/Jobhack/content/posts/20250918-1749-jobs-does-anyone-else-get-5-vacatio.md",
-    "contentLength": 3019,
-    "wordCount": 434
+    "title": "Job Change Regret: Why a Paycheck Beats Fulfillment",
+    "filename": "20250919-0213-jobs-switched-jobs-and-am-regrettin.md",
+    "path": "/home/runner/work/Jobhack/Jobhack/content/posts/20250919-0213-jobs-switched-jobs-and-am-regrettin.md",
+    "contentLength": 3186,
+    "wordCount": 431
   },
   "source": {
     "subreddit": "jobs",
-    "originalTitle": "Does anyone else get 5 vacation days a year? (USA)",
-    "originalUrl": "https://reddit.com/r/jobs/comments/1njpde0/does_anyone_else_get_5_vacation_days_a_year_usa/",
+    "originalTitle": "Switched jobs and am regretting it so bad. PSA: you don’t need fulfillment. You just need a paycheck",
+    "originalUrl": "https://reddit.com/r/jobs/comments/1nkkt0h/switched_jobs_and_am_regretting_it_so_bad_psa_you/",
     "engagement": {
-      "upvotes": 107,
-      "comments": 207
+      "upvotes": 796,
+      "comments": 97
     }
   },
   "stats": {
