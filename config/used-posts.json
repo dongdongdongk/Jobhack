@@ -951,11 +951,19 @@
       "upvotes": 796,
       "usedAt": "2025-09-19T02:13:38.558Z",
       "url": "https://reddit.com/r/jobs/comments/1nkkt0h/switched_jobs_and_am_regretting_it_so_bad_psa_you/"
+    },
+    {
+      "id": "1nkcsty",
+      "title": "“Get a Degree, Get a Job” Stopped Working—Labor Research Says",
+      "subreddit": "jobs",
+      "upvotes": 837,
+      "usedAt": "2025-09-19T13:46:34.385Z",
+      "url": "https://reddit.com/r/jobs/comments/1nkcsty/get_a_degree_get_a_job_stopped_workinglabor/"
     }
   ],
   "lastCleanup": "2025-08-24T05:56:58Z",
   "stats": {
-    "totalUsed": 122,
+    "totalUsed": 123,
     "cleanupCount": 10
   }
 }
