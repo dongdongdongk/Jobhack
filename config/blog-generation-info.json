@@ -1,21 +1,21 @@
 {
   "date": "2025-09-20",
-  "timestamp": "2025-09-20T13:42:56.779Z",
-  "executionTimeMs": 15042,
+  "timestamp": "2025-09-20T17:49:07.180Z",
+  "executionTimeMs": 12805,
   "blog": {
-    "title": "Jerome Powell Reveals Grim Truths About Labor Market",
-    "filename": "20250920-1342-jobs-jerome-powell-on-how-bad-the-l.md",
-    "path": "/home/runner/work/Jobhack/Jobhack/content/posts/20250920-1342-jobs-jerome-powell-on-how-bad-the-l.md",
-    "contentLength": 2959,
-    "wordCount": 384
+    "title": "Will Employers Cover $100k Salaries for Workers?",
+    "filename": "20250920-1749-jobs-will-employers-pay-the-100k-fo.md",
+    "path": "/home/runner/work/Jobhack/Jobhack/content/posts/20250920-1749-jobs-will-employers-pay-the-100k-fo.md",
+    "contentLength": 3180,
+    "wordCount": 421
   },
   "source": {
     "subreddit": "jobs",
-    "originalTitle": "Jerome Powell on how bad the Labor Market is",
-    "originalUrl": "https://reddit.com/r/jobs/comments/1nl79od/jerome_powell_on_how_bad_the_labor_market_is/",
+    "originalTitle": "Will employers pay the $100k for their workers?",
+    "originalUrl": "https://reddit.com/r/jobs/comments/1nlhc14/will_employers_pay_the_100k_for_their_workers/",
     "engagement": {
-      "upvotes": 435,
-      "comments": 89
+      "upvotes": 362,
+      "comments": 179
     }
   },
   "stats": {

@@ -983,11 +983,19 @@
       "upvotes": 435,
       "usedAt": "2025-09-20T13:42:42.925Z",
       "url": "https://reddit.com/r/jobs/comments/1nl79od/jerome_powell_on_how_bad_the_labor_market_is/"
+    },
+    {
+      "id": "1nlhc14",
+      "title": "Will employers pay the $100k for their workers?",
+      "subreddit": "jobs",
+      "upvotes": 362,
+      "usedAt": "2025-09-20T17:48:55.429Z",
+      "url": "https://reddit.com/r/jobs/comments/1nlhc14/will_employers_pay_the_100k_for_their_workers/"
     }
   ],
   "lastCleanup": "2025-08-24T05:56:58Z",
   "stats": {
-    "totalUsed": 126,
+    "totalUsed": 127,
     "cleanupCount": 10
   }
 }
