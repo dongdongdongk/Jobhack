@@ -975,11 +975,19 @@
       "upvotes": 1543,
       "usedAt": "2025-09-20T02:07:58.851Z",
       "url": "https://reddit.com/r/jobs/comments/1nl9y2u/100_percent_accurate/"
+    },
+    {
+      "id": "1nl79od",
+      "title": "Jerome Powell on how bad the Labor Market is",
+      "subreddit": "jobs",
+      "upvotes": 435,
+      "usedAt": "2025-09-20T13:42:42.925Z",
+      "url": "https://reddit.com/r/jobs/comments/1nl79od/jerome_powell_on_how_bad_the_labor_market_is/"
     }
   ],
   "lastCleanup": "2025-08-24T05:56:58Z",
   "stats": {
-    "totalUsed": 125,
+    "totalUsed": 126,
     "cleanupCount": 10
   }
 }
