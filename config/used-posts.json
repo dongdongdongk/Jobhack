@@ -999,11 +999,19 @@
       "upvotes": 670,
       "usedAt": "2025-09-21T02:20:21.381Z",
       "url": "https://reddit.com/r/jobs/comments/1nmde3g/after_200_job_applications_this_is_my_dinner_for/"
+    },
+    {
+      "id": "1nmfkv3",
+      "title": "Wholesome!",
+      "subreddit": "jobs",
+      "upvotes": 769,
+      "usedAt": "2025-09-21T13:42:44.622Z",
+      "url": "https://reddit.com/r/jobs/comments/1nmfkv3/wholesome/"
     }
   ],
   "lastCleanup": "2025-08-24T05:56:58Z",
   "stats": {
-    "totalUsed": 128,
+    "totalUsed": 129,
     "cleanupCount": 10
   }
 }
