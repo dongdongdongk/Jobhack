@@ -1007,11 +1007,19 @@
       "upvotes": 769,
       "usedAt": "2025-09-21T13:42:44.622Z",
       "url": "https://reddit.com/r/jobs/comments/1nmfkv3/wholesome/"
+    },
+    {
+      "id": "1nml7n6",
+      "title": "More Americans Are Stuck With the Jobs They Can Get, Not the Ones They Want",
+      "subreddit": "jobs",
+      "upvotes": 640,
+      "usedAt": "2025-09-21T17:49:15.142Z",
+      "url": "https://reddit.com/r/jobs/comments/1nml7n6/more_americans_are_stuck_with_the_jobs_they_can/"
     }
   ],
   "lastCleanup": "2025-08-24T05:56:58Z",
   "stats": {
-    "totalUsed": 129,
+    "totalUsed": 130,
     "cleanupCount": 10
   }
 }
