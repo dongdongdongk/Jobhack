@@ -991,11 +991,19 @@
       "upvotes": 362,
       "usedAt": "2025-09-20T17:48:55.429Z",
       "url": "https://reddit.com/r/jobs/comments/1nlhc14/will_employers_pay_the_100k_for_their_workers/"
+    },
+    {
+      "id": "1nmde3g",
+      "title": "After 200+ job applications, this is my dinner for today.",
+      "subreddit": "jobs",
+      "upvotes": 670,
+      "usedAt": "2025-09-21T02:20:21.381Z",
+      "url": "https://reddit.com/r/jobs/comments/1nmde3g/after_200_job_applications_this_is_my_dinner_for/"
     }
   ],
   "lastCleanup": "2025-08-24T05:56:58Z",
   "stats": {
-    "totalUsed": 127,
+    "totalUsed": 128,
     "cleanupCount": 10
   }
 }
