@@ -1023,11 +1023,19 @@
       "upvotes": 398,
       "usedAt": "2025-09-22T02:20:09.917Z",
       "url": "https://reddit.com/r/jobs/comments/1nmwkdv/goodwill_ceo_says_hes_preparing_for_an_influx_of/"
+    },
+    {
+      "id": "1nn71tv",
+      "title": "19 year old daughter can't find retail job",
+      "subreddit": "jobs",
+      "upvotes": 280,
+      "usedAt": "2025-09-22T13:47:46.192Z",
+      "url": "https://reddit.com/r/jobs/comments/1nn71tv/19_year_old_daughter_cant_find_retail_job/"
     }
   ],
   "lastCleanup": "2025-08-24T05:56:58Z",
   "stats": {
-    "totalUsed": 131,
+    "totalUsed": 132,
     "cleanupCount": 10
   }
 }
