@@ -1031,11 +1031,19 @@
       "upvotes": 280,
       "usedAt": "2025-09-22T13:47:46.192Z",
       "url": "https://reddit.com/r/jobs/comments/1nn71tv/19_year_old_daughter_cant_find_retail_job/"
+    },
+    {
+      "id": "1nn44kk",
+      "title": "I hate my job and life sucks",
+      "subreddit": "jobs",
+      "upvotes": 272,
+      "usedAt": "2025-09-22T17:49:06.519Z",
+      "url": "https://reddit.com/r/jobs/comments/1nn44kk/i_hate_my_job_and_life_sucks/"
     }
   ],
   "lastCleanup": "2025-08-24T05:56:58Z",
   "stats": {
-    "totalUsed": 132,
+    "totalUsed": 133,
     "cleanupCount": 10
   }
 }
