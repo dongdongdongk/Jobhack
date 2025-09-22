@@ -1015,11 +1015,19 @@
       "upvotes": 640,
       "usedAt": "2025-09-21T17:49:15.142Z",
       "url": "https://reddit.com/r/jobs/comments/1nml7n6/more_americans_are_stuck_with_the_jobs_they_can/"
+    },
+    {
+      "id": "1nmwkdv",
+      "title": "Goodwill CEO says he’s preparing for an influx of jobless Gen Zers because of AI—and warns, a youth unemployment crisis is already happening",
+      "subreddit": "jobs",
+      "upvotes": 398,
+      "usedAt": "2025-09-22T02:20:09.917Z",
+      "url": "https://reddit.com/r/jobs/comments/1nmwkdv/goodwill_ceo_says_hes_preparing_for_an_influx_of/"
     }
   ],
   "lastCleanup": "2025-08-24T05:56:58Z",
   "stats": {
-    "totalUsed": 130,
+    "totalUsed": 131,
     "cleanupCount": 10
   }
 }
