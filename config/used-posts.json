@@ -1039,11 +1039,19 @@
       "upvotes": 272,
       "usedAt": "2025-09-22T17:49:06.519Z",
       "url": "https://reddit.com/r/jobs/comments/1nn44kk/i_hate_my_job_and_life_sucks/"
+    },
+    {
+      "id": "1nntdoa",
+      "title": "Top economists and Jerome Powell agree that Gen Z’s hiring nightmare is real—and it’s not about AI eating entry-level jobs",
+      "subreddit": "jobs",
+      "upvotes": 407,
+      "usedAt": "2025-09-23T02:09:47.912Z",
+      "url": "https://reddit.com/r/jobs/comments/1nntdoa/top_economists_and_jerome_powell_agree_that_gen/"
     }
   ],
   "lastCleanup": "2025-08-24T05:56:58Z",
   "stats": {
-    "totalUsed": 133,
+    "totalUsed": 134,
     "cleanupCount": 10
   }
 }
