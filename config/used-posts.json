@@ -991,11 +991,19 @@
       "upvotes": 440,
       "usedAt": "2025-09-23T13:48:30.363Z",
       "url": "https://reddit.com/r/jobs/comments/1nntsm6/tech_is_dead_how_can_i_pivot_out_and_what/"
+    },
+    {
+      "id": "1nog3f6",
+      "title": "Finally got the 6 figure job that I've been praying for all my life!!!",
+      "subreddit": "jobs",
+      "upvotes": 331,
+      "usedAt": "2025-09-23T17:49:21.037Z",
+      "url": "https://reddit.com/r/jobs/comments/1nog3f6/finally_got_the_6_figure_job_that_ive_been/"
     }
   ],
   "lastCleanup": "2025-09-23T13:48:29.201Z",
   "stats": {
-    "totalUsed": 135,
+    "totalUsed": 136,
     "cleanupCount": 11
   }
 }
