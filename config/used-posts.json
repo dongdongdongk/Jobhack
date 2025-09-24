@@ -1015,11 +1015,19 @@
       "upvotes": 802,
       "usedAt": "2025-09-24T13:48:03.628Z",
       "url": "https://reddit.com/r/jobs/comments/1np0veu/family_and_friends_references/"
+    },
+    {
+      "id": "1npdpby",
+      "title": "My manager was changing my clock out times for an entire week",
+      "subreddit": "jobs",
+      "upvotes": 1405,
+      "usedAt": "2025-09-24T17:48:49.738Z",
+      "url": "https://reddit.com/r/jobs/comments/1npdpby/my_manager_was_changing_my_clock_out_times_for_an/"
     }
   ],
   "lastCleanup": "2025-09-23T13:48:29.201Z",
   "stats": {
-    "totalUsed": 138,
+    "totalUsed": 139,
     "cleanupCount": 11
   }
 }
