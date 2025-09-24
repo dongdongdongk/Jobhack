@@ -1007,11 +1007,19 @@
       "upvotes": 547,
       "usedAt": "2025-09-24T02:11:31.642Z",
       "url": "https://reddit.com/r/jobs/comments/1nokjb9/realistically_when_will_the_job_market_return_to/"
+    },
+    {
+      "id": "1np0veu",
+      "title": "family and friends = references",
+      "subreddit": "jobs",
+      "upvotes": 802,
+      "usedAt": "2025-09-24T13:48:03.628Z",
+      "url": "https://reddit.com/r/jobs/comments/1np0veu/family_and_friends_references/"
     }
   ],
   "lastCleanup": "2025-09-23T13:48:29.201Z",
   "stats": {
-    "totalUsed": 137,
+    "totalUsed": 138,
     "cleanupCount": 11
   }
 }
