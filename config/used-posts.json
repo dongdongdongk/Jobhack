@@ -999,11 +999,19 @@
       "upvotes": 331,
       "usedAt": "2025-09-23T17:49:21.037Z",
       "url": "https://reddit.com/r/jobs/comments/1nog3f6/finally_got_the_6_figure_job_that_ive_been/"
+    },
+    {
+      "id": "1nokjb9",
+      "title": "Realistically, When Will the Job Market Return to Normal?",
+      "subreddit": "jobs",
+      "upvotes": 547,
+      "usedAt": "2025-09-24T02:11:31.642Z",
+      "url": "https://reddit.com/r/jobs/comments/1nokjb9/realistically_when_will_the_job_market_return_to/"
     }
   ],
   "lastCleanup": "2025-09-23T13:48:29.201Z",
   "stats": {
-    "totalUsed": 136,
+    "totalUsed": 137,
     "cleanupCount": 11
   }
 }
