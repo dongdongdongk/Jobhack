@@ -1023,11 +1023,19 @@
       "upvotes": 1405,
       "usedAt": "2025-09-24T17:48:49.738Z",
       "url": "https://reddit.com/r/jobs/comments/1npdpby/my_manager_was_changing_my_clock_out_times_for_an/"
+    },
+    {
+      "id": "1np6vv2",
+      "title": "$70k job offer reduced to $20hr",
+      "subreddit": "jobs",
+      "upvotes": 610,
+      "usedAt": "2025-09-25T02:13:16.467Z",
+      "url": "https://reddit.com/r/jobs/comments/1np6vv2/70k_job_offer_reduced_to_20hr/"
     }
   ],
   "lastCleanup": "2025-09-23T13:48:29.201Z",
   "stats": {
-    "totalUsed": 139,
+    "totalUsed": 140,
     "cleanupCount": 11
   }
 }
