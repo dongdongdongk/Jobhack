@@ -1031,11 +1031,19 @@
       "upvotes": 610,
       "usedAt": "2025-09-25T02:13:16.467Z",
       "url": "https://reddit.com/r/jobs/comments/1np6vv2/70k_job_offer_reduced_to_20hr/"
+    },
+    {
+      "id": "1npdfwt",
+      "title": "Wild response to resignation",
+      "subreddit": "jobs",
+      "upvotes": 409,
+      "usedAt": "2025-09-25T13:48:03.996Z",
+      "url": "https://reddit.com/r/jobs/comments/1npdfwt/wild_response_to_resignation/"
     }
   ],
   "lastCleanup": "2025-09-23T13:48:29.201Z",
   "stats": {
-    "totalUsed": 140,
+    "totalUsed": 141,
     "cleanupCount": 11
   }
 }
