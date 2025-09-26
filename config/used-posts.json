@@ -1063,11 +1063,19 @@
       "upvotes": 822,
       "usedAt": "2025-09-26T13:46:27.871Z",
       "url": "https://reddit.com/r/jobs/comments/1nqi584/my_job_wont_let_me_hire_black_candidates_what_can/"
+    },
+    {
+      "id": "1nqsaul",
+      "title": "Finally landed a job after 10 months and 1000+ applications. For anyone feeling hopeless, here's what I learned",
+      "subreddit": "jobs",
+      "upvotes": 170,
+      "usedAt": "2025-09-26T17:49:06.835Z",
+      "url": "https://reddit.com/r/jobs/comments/1nqsaul/finally_landed_a_job_after_10_months_and_1000/"
     }
   ],
   "lastCleanup": "2025-09-23T13:48:29.201Z",
   "stats": {
-    "totalUsed": 144,
+    "totalUsed": 145,
     "cleanupCount": 11
   }
 }
