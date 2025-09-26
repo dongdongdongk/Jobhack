@@ -1055,11 +1055,19 @@
       "upvotes": 791,
       "usedAt": "2025-09-26T02:12:16.905Z",
       "url": "https://reddit.com/r/jobs/comments/1nq8nqs/remember_the_days_when_you_put_in_35_applications/"
+    },
+    {
+      "id": "1nqi584",
+      "title": "my job won’t let me hire black candidates. what can i do?",
+      "subreddit": "jobs",
+      "upvotes": 822,
+      "usedAt": "2025-09-26T13:46:27.871Z",
+      "url": "https://reddit.com/r/jobs/comments/1nqi584/my_job_wont_let_me_hire_black_candidates_what_can/"
     }
   ],
   "lastCleanup": "2025-09-23T13:48:29.201Z",
   "stats": {
-    "totalUsed": 143,
+    "totalUsed": 144,
     "cleanupCount": 11
   }
 }
