@@ -1047,11 +1047,19 @@
       "upvotes": 476,
       "usedAt": "2025-09-25T17:48:41.596Z",
       "url": "https://reddit.com/r/jobs/comments/1npwn2w/is_this_acceptable/"
+    },
+    {
+      "id": "1nq8nqs",
+      "title": "Remember the days when you put in 3-5 applications get 2 interviews and hired by both 😂",
+      "subreddit": "jobs",
+      "upvotes": 791,
+      "usedAt": "2025-09-26T02:12:16.905Z",
+      "url": "https://reddit.com/r/jobs/comments/1nq8nqs/remember_the_days_when_you_put_in_35_applications/"
     }
   ],
   "lastCleanup": "2025-09-23T13:48:29.201Z",
   "stats": {
-    "totalUsed": 142,
+    "totalUsed": 143,
     "cleanupCount": 11
   }
 }
