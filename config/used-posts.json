@@ -1087,11 +1087,19 @@
       "upvotes": 561,
       "usedAt": "2025-09-27T13:43:06.310Z",
       "url": "https://reddit.com/r/jobs/comments/1nrf9iy/i_havent_worked_retail_in_over_a_decade_and_it/"
+    },
+    {
+      "id": "1nr9wav",
+      "title": "I am so embarrassed.",
+      "subreddit": "jobs",
+      "upvotes": 643,
+      "usedAt": "2025-09-27T17:49:03.549Z",
+      "url": "https://reddit.com/r/jobs/comments/1nr9wav/i_am_so_embarrassed/"
     }
   ],
   "lastCleanup": "2025-09-23T13:48:29.201Z",
   "stats": {
-    "totalUsed": 147,
+    "totalUsed": 148,
     "cleanupCount": 11
   }
 }
