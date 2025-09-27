@@ -1071,11 +1071,19 @@
       "upvotes": 170,
       "usedAt": "2025-09-26T17:49:06.835Z",
       "url": "https://reddit.com/r/jobs/comments/1nqsaul/finally_landed_a_job_after_10_months_and_1000/"
+    },
+    {
+      "id": "1nr3t06",
+      "title": "Accepted dream job offer with Samsung! What I learned through the job hunt:",
+      "subreddit": "jobs",
+      "upvotes": 16,
+      "usedAt": "2025-09-27T02:07:11.626Z",
+      "url": "https://reddit.com/r/jobs/comments/1nr3t06/accepted_dream_job_offer_with_samsung_what_i/"
     }
   ],
   "lastCleanup": "2025-09-23T13:48:29.201Z",
   "stats": {
-    "totalUsed": 145,
+    "totalUsed": 146,
     "cleanupCount": 11
   }
 }
