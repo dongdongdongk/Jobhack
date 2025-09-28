@@ -1095,11 +1095,19 @@
       "upvotes": 643,
       "usedAt": "2025-09-27T17:49:03.549Z",
       "url": "https://reddit.com/r/jobs/comments/1nr9wav/i_am_so_embarrassed/"
+    },
+    {
+      "id": "1ns4mp8",
+      "title": "Older US  worker here. Just got fired after 23 years of employment. ..... having existential crisis about path",
+      "subreddit": "jobs",
+      "upvotes": 311,
+      "usedAt": "2025-09-28T02:21:51.310Z",
+      "url": "https://reddit.com/r/jobs/comments/1ns4mp8/older_us_worker_here_just_got_fired_after_23/"
     }
   ],
   "lastCleanup": "2025-09-23T13:48:29.201Z",
   "stats": {
-    "totalUsed": 148,
+    "totalUsed": 149,
     "cleanupCount": 11
   }
 }
