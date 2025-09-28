@@ -1103,11 +1103,19 @@
       "upvotes": 311,
       "usedAt": "2025-09-28T02:21:51.310Z",
       "url": "https://reddit.com/r/jobs/comments/1ns4mp8/older_us_worker_here_just_got_fired_after_23/"
+    },
+    {
+      "id": "1ns9lce",
+      "title": "Is it me or is the job market cooked (USA)",
+      "subreddit": "jobs",
+      "upvotes": 375,
+      "usedAt": "2025-09-28T13:42:55.065Z",
+      "url": "https://reddit.com/r/jobs/comments/1ns9lce/is_it_me_or_is_the_job_market_cooked_usa/"
     }
   ],
   "lastCleanup": "2025-09-23T13:48:29.201Z",
   "stats": {
-    "totalUsed": 149,
+    "totalUsed": 150,
     "cleanupCount": 11
   }
 }
