@@ -1,21 +1,21 @@
 {
   "date": "2025-09-28",
-  "timestamp": "2025-09-28T13:43:02.828Z",
-  "executionTimeMs": 8939,
+  "timestamp": "2025-09-28T17:49:24.123Z",
+  "executionTimeMs": 13942,
   "blog": {
-    "title": "Is the U.S. Job Market Overheated or Just Evolving?",
-    "filename": "20250928-1343-jobs-is-it-me-or-is-the-job-market-.md",
-    "path": "/home/runner/work/Jobhack/Jobhack/content/posts/20250928-1343-jobs-is-it-me-or-is-the-job-market-.md",
-    "contentLength": 2718,
-    "wordCount": 349
+    "title": "H-1B Crackdown: No Job Boost for Laid-Off Tech Workers",
+    "filename": "20250928-1749-jobs-laidoff-tech-workers-say-h1b-c.md",
+    "path": "/home/runner/work/Jobhack/Jobhack/content/posts/20250928-1749-jobs-laidoff-tech-workers-say-h1b-c.md",
+    "contentLength": 3393,
+    "wordCount": 463
   },
   "source": {
     "subreddit": "jobs",
-    "originalTitle": "Is it me or is the job market cooked (USA)",
-    "originalUrl": "https://reddit.com/r/jobs/comments/1ns9lce/is_it_me_or_is_the_job_market_cooked_usa/",
+    "originalTitle": "Laid-Off Tech Workers Say H-1B Crackdown Won’t Help Them Get a Job",
+    "originalUrl": "https://reddit.com/r/jobs/comments/1nsn5fi/laidoff_tech_workers_say_h1b_crackdown_wont_help/",
     "engagement": {
-      "upvotes": 375,
-      "comments": 144
+      "upvotes": 183,
+      "comments": 54
     }
   },
   "stats": {

@@ -1111,11 +1111,19 @@
       "upvotes": 375,
       "usedAt": "2025-09-28T13:42:55.065Z",
       "url": "https://reddit.com/r/jobs/comments/1ns9lce/is_it_me_or_is_the_job_market_cooked_usa/"
+    },
+    {
+      "id": "1nsn5fi",
+      "title": "Laid-Off Tech Workers Say H-1B Crackdown Won’t Help Them Get a Job",
+      "subreddit": "jobs",
+      "upvotes": 183,
+      "usedAt": "2025-09-28T17:49:11.221Z",
+      "url": "https://reddit.com/r/jobs/comments/1nsn5fi/laidoff_tech_workers_say_h1b_crackdown_wont_help/"
     }
   ],
   "lastCleanup": "2025-09-23T13:48:29.201Z",
   "stats": {
-    "totalUsed": 150,
+    "totalUsed": 151,
     "cleanupCount": 11
   }
 }
