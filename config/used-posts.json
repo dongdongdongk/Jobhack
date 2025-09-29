@@ -1119,11 +1119,19 @@
       "upvotes": 183,
       "usedAt": "2025-09-28T17:49:11.221Z",
       "url": "https://reddit.com/r/jobs/comments/1nsn5fi/laidoff_tech_workers_say_h1b_crackdown_wont_help/"
+    },
+    {
+      "id": "1nt367e",
+      "title": "US set for largest mass resignation in history as Trump continues deep cuts",
+      "subreddit": "jobs",
+      "upvotes": 1025,
+      "usedAt": "2025-09-29T13:48:42.638Z",
+      "url": "https://reddit.com/r/jobs/comments/1nt367e/us_set_for_largest_mass_resignation_in_history_as/"
     }
   ],
   "lastCleanup": "2025-09-23T13:48:29.201Z",
   "stats": {
-    "totalUsed": 151,
+    "totalUsed": 152,
     "cleanupCount": 11
   }
 }

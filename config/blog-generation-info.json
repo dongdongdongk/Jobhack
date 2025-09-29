@@ -1,21 +1,21 @@
 {
-  "date": "2025-09-28",
-  "timestamp": "2025-09-28T17:49:24.123Z",
-  "executionTimeMs": 13942,
+  "date": "2025-09-29",
+  "timestamp": "2025-09-29T13:48:59.423Z",
+  "executionTimeMs": 17847,
   "blog": {
-    "title": "H-1B Crackdown: No Job Boost for Laid-Off Tech Workers",
-    "filename": "20250928-1749-jobs-laidoff-tech-workers-say-h1b-c.md",
-    "path": "/home/runner/work/Jobhack/Jobhack/content/posts/20250928-1749-jobs-laidoff-tech-workers-say-h1b-c.md",
-    "contentLength": 3393,
-    "wordCount": 463
+    "title": "Historic US Resignation Looms Amid Trump’s Deep Budget Cuts",
+    "filename": "20250929-1348-jobs-us-set-for-largest-mass-resign.md",
+    "path": "/home/runner/work/Jobhack/Jobhack/content/posts/20250929-1348-jobs-us-set-for-largest-mass-resign.md",
+    "contentLength": 3843,
+    "wordCount": 517
   },
   "source": {
     "subreddit": "jobs",
-    "originalTitle": "Laid-Off Tech Workers Say H-1B Crackdown Won’t Help Them Get a Job",
-    "originalUrl": "https://reddit.com/r/jobs/comments/1nsn5fi/laidoff_tech_workers_say_h1b_crackdown_wont_help/",
+    "originalTitle": "US set for largest mass resignation in history as Trump continues deep cuts",
+    "originalUrl": "https://reddit.com/r/jobs/comments/1nt367e/us_set_for_largest_mass_resignation_in_history_as/",
     "engagement": {
-      "upvotes": 183,
-      "comments": 54
+      "upvotes": 1025,
+      "comments": 38
     }
   },
   "stats": {
