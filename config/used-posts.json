@@ -1127,11 +1127,19 @@
       "upvotes": 1025,
       "usedAt": "2025-09-29T13:48:42.638Z",
       "url": "https://reddit.com/r/jobs/comments/1nt367e/us_set_for_largest_mass_resignation_in_history_as/"
+    },
+    {
+      "id": "1nsvyj6",
+      "title": "H1B employees make up as much as 12% of U.S based employees for some companies",
+      "subreddit": "jobs",
+      "upvotes": 539,
+      "usedAt": "2025-09-29T17:49:14.589Z",
+      "url": "https://reddit.com/r/jobs/comments/1nsvyj6/h1b_employees_make_up_as_much_as_12_of_us_based/"
     }
   ],
   "lastCleanup": "2025-09-23T13:48:29.201Z",
   "stats": {
-    "totalUsed": 152,
+    "totalUsed": 153,
     "cleanupCount": 11
   }
 }
