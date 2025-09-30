@@ -711,11 +711,19 @@
       "upvotes": 647,
       "usedAt": "2025-09-30T13:49:16.121Z",
       "url": "https://reddit.com/r/jobs/comments/1nu2im5/gen_z_job_crisis_maybe_there_are_just_too_many/"
+    },
+    {
+      "id": "1nuc5v4",
+      "title": "I applied for a job and received this email from the hiring manager 1 day later",
+      "subreddit": "jobs",
+      "upvotes": 856,
+      "usedAt": "2025-09-30T17:48:55.138Z",
+      "url": "https://reddit.com/r/jobs/comments/1nuc5v4/i_applied_for_a_job_and_received_this_email_from/"
     }
   ],
   "lastCleanup": "2025-09-30T13:49:14.820Z",
   "stats": {
-    "totalUsed": 155,
+    "totalUsed": 156,
     "cleanupCount": 12
   }
 }
