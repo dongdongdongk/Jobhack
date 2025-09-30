@@ -1135,11 +1135,19 @@
       "upvotes": 539,
       "usedAt": "2025-09-29T17:49:14.589Z",
       "url": "https://reddit.com/r/jobs/comments/1nsvyj6/h1b_employees_make_up_as_much_as_12_of_us_based/"
+    },
+    {
+      "id": "1ntizqn",
+      "title": "I got an offer y’all - after 4 months (I resigned in May with no back up - don’t recommend).",
+      "subreddit": "jobs",
+      "upvotes": 155,
+      "usedAt": "2025-09-30T02:10:04.559Z",
+      "url": "https://reddit.com/r/jobs/comments/1ntizqn/i_got_an_offer_yall_after_4_months_i_resigned_in/"
     }
   ],
   "lastCleanup": "2025-09-23T13:48:29.201Z",
   "stats": {
-    "totalUsed": 153,
+    "totalUsed": 154,
     "cleanupCount": 11
   }
 }
