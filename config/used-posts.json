@@ -735,11 +735,19 @@
       "upvotes": 329,
       "usedAt": "2025-10-01T13:49:16.313Z",
       "url": "https://reddit.com/r/jobs/comments/1nun650/medicaid_work_requirements_dont_boost_employment/"
+    },
+    {
+      "id": "1nvbaw9",
+      "title": "A quarter of bosses admit return-to-office mandates were meant to make staff quit",
+      "subreddit": "jobs",
+      "upvotes": 969,
+      "usedAt": "2025-10-01T17:49:06.210Z",
+      "url": "https://reddit.com/r/jobs/comments/1nvbaw9/a_quarter_of_bosses_admit_returntooffice_mandates/"
     }
   ],
   "lastCleanup": "2025-09-30T13:49:14.820Z",
   "stats": {
-    "totalUsed": 158,
+    "totalUsed": 159,
     "cleanupCount": 12
   }
 }
