@@ -1,21 +1,21 @@
 {
   "date": "2025-10-01",
-  "timestamp": "2025-10-01T02:23:23.808Z",
-  "executionTimeMs": 15170,
+  "timestamp": "2025-10-01T13:49:32.070Z",
+  "executionTimeMs": 17346,
   "blog": {
-    "title": "Historic Exit: 100,000 Federal Workers Resign in US",
-    "filename": "20251001-0223-jobs-largest-mass-resignation-in-us.md",
-    "path": "/home/runner/work/Jobhack/Jobhack/content/posts/20251001-0223-jobs-largest-mass-resignation-in-us.md",
-    "contentLength": 2988,
-    "wordCount": 375
+    "title": "Study: Medicaid Work Rules Fail to Increase Employment",
+    "filename": "20251001-1349-jobs-medicaid-work-requirements-don.md",
+    "path": "/home/runner/work/Jobhack/Jobhack/content/posts/20251001-1349-jobs-medicaid-work-requirements-don.md",
+    "contentLength": 3585,
+    "wordCount": 474
   },
   "source": {
     "subreddit": "jobs",
-    "originalTitle": "Largest mass resignation in US history as 100,000 federal workers quit",
-    "originalUrl": "https://reddit.com/r/jobs/comments/1nufg27/largest_mass_resignation_in_us_history_as_100000/",
+    "originalTitle": "Medicaid Work Requirements Don’t Boost Employment, Study Shows",
+    "originalUrl": "https://reddit.com/r/jobs/comments/1nun650/medicaid_work_requirements_dont_boost_employment/",
     "engagement": {
-      "upvotes": 2254,
-      "comments": 118
+      "upvotes": 329,
+      "comments": 16
     }
   },
   "stats": {

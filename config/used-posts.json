@@ -727,11 +727,19 @@
       "upvotes": 2254,
       "usedAt": "2025-10-01T02:23:10.029Z",
       "url": "https://reddit.com/r/jobs/comments/1nufg27/largest_mass_resignation_in_us_history_as_100000/"
+    },
+    {
+      "id": "1nun650",
+      "title": "Medicaid Work Requirements Don’t Boost Employment, Study Shows",
+      "subreddit": "jobs",
+      "upvotes": 329,
+      "usedAt": "2025-10-01T13:49:16.313Z",
+      "url": "https://reddit.com/r/jobs/comments/1nun650/medicaid_work_requirements_dont_boost_employment/"
     }
   ],
   "lastCleanup": "2025-09-30T13:49:14.820Z",
   "stats": {
-    "totalUsed": 157,
+    "totalUsed": 158,
     "cleanupCount": 12
   }
 }
