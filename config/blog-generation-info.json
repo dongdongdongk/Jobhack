@@ -1,21 +1,21 @@
 {
-  "date": "2025-09-30",
-  "timestamp": "2025-09-30T17:49:15.149Z",
-  "executionTimeMs": 21321,
+  "date": "2025-10-01",
+  "timestamp": "2025-10-01T02:23:23.808Z",
+  "executionTimeMs": 15170,
   "blog": {
-    "title": "Job Application Success: Email Reply in Just 1 Day!",
-    "filename": "20250930-1749-jobs-i-applied-for-a-job-and-receiv.md",
-    "path": "/home/runner/work/Jobhack/Jobhack/content/posts/20250930-1749-jobs-i-applied-for-a-job-and-receiv.md",
-    "contentLength": 3357,
-    "wordCount": 454
+    "title": "Historic Exit: 100,000 Federal Workers Resign in US",
+    "filename": "20251001-0223-jobs-largest-mass-resignation-in-us.md",
+    "path": "/home/runner/work/Jobhack/Jobhack/content/posts/20251001-0223-jobs-largest-mass-resignation-in-us.md",
+    "contentLength": 2988,
+    "wordCount": 375
   },
   "source": {
     "subreddit": "jobs",
-    "originalTitle": "I applied for a job and received this email from the hiring manager 1 day later",
-    "originalUrl": "https://reddit.com/r/jobs/comments/1nuc5v4/i_applied_for_a_job_and_received_this_email_from/",
+    "originalTitle": "Largest mass resignation in US history as 100,000 federal workers quit",
+    "originalUrl": "https://reddit.com/r/jobs/comments/1nufg27/largest_mass_resignation_in_us_history_as_100000/",
     "engagement": {
-      "upvotes": 856,
-      "comments": 398
+      "upvotes": 2254,
+      "comments": 118
     }
   },
   "stats": {

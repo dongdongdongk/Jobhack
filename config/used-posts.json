@@ -719,11 +719,19 @@
       "upvotes": 856,
       "usedAt": "2025-09-30T17:48:55.138Z",
       "url": "https://reddit.com/r/jobs/comments/1nuc5v4/i_applied_for_a_job_and_received_this_email_from/"
+    },
+    {
+      "id": "1nufg27",
+      "title": "Largest mass resignation in US history as 100,000 federal workers quit",
+      "subreddit": "jobs",
+      "upvotes": 2254,
+      "usedAt": "2025-10-01T02:23:10.029Z",
+      "url": "https://reddit.com/r/jobs/comments/1nufg27/largest_mass_resignation_in_us_history_as_100000/"
     }
   ],
   "lastCleanup": "2025-09-30T13:49:14.820Z",
   "stats": {
-    "totalUsed": 156,
+    "totalUsed": 157,
     "cleanupCount": 12
   }
 }
