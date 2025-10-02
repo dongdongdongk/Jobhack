@@ -1,21 +1,21 @@
 {
-  "date": "2025-10-01",
-  "timestamp": "2025-10-01T17:49:22.454Z",
-  "executionTimeMs": 17781,
+  "date": "2025-10-02",
+  "timestamp": "2025-10-02T02:10:07.744Z",
+  "executionTimeMs": 16447,
   "blog": {
-    "title": "Why 25% of Bosses Use Office Mandates to Push Staff Out",
-    "filename": "20251001-1749-jobs-a-quarter-of-bosses-admit-retu.md",
-    "path": "/home/runner/work/Jobhack/Jobhack/content/posts/20251001-1749-jobs-a-quarter-of-bosses-admit-retu.md",
-    "contentLength": 3284,
-    "wordCount": 436
+    "title": "U.S. Job Cuts: 32,000 Roles Lost in September Slide",
+    "filename": "20251002-0210-jobs-us-companies-shed-32000-jobs-i.md",
+    "path": "/home/runner/work/Jobhack/Jobhack/content/posts/20251002-0210-jobs-us-companies-shed-32000-jobs-i.md",
+    "contentLength": 3454,
+    "wordCount": 448
   },
   "source": {
     "subreddit": "jobs",
-    "originalTitle": "A quarter of bosses admit return-to-office mandates were meant to make staff quit",
-    "originalUrl": "https://reddit.com/r/jobs/comments/1nvbaw9/a_quarter_of_bosses_admit_returntooffice_mandates/",
+    "originalTitle": "U.S. companies shed 32,000 jobs in September in latest sign of labor market weakness",
+    "originalUrl": "https://reddit.com/r/jobs/comments/1nvcstf/us_companies_shed_32000_jobs_in_september_in/",
     "engagement": {
-      "upvotes": 969,
-      "comments": 62
+      "upvotes": 327,
+      "comments": 42
     }
   },
   "stats": {

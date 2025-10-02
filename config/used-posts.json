@@ -743,11 +743,19 @@
       "upvotes": 969,
       "usedAt": "2025-10-01T17:49:06.210Z",
       "url": "https://reddit.com/r/jobs/comments/1nvbaw9/a_quarter_of_bosses_admit_returntooffice_mandates/"
+    },
+    {
+      "id": "1nvcstf",
+      "title": "U.S. companies shed 32,000 jobs in September in latest sign of labor market weakness",
+      "subreddit": "jobs",
+      "upvotes": 327,
+      "usedAt": "2025-10-02T02:09:52.697Z",
+      "url": "https://reddit.com/r/jobs/comments/1nvcstf/us_companies_shed_32000_jobs_in_september_in/"
     }
   ],
   "lastCleanup": "2025-09-30T13:49:14.820Z",
   "stats": {
-    "totalUsed": 159,
+    "totalUsed": 160,
     "cleanupCount": 12
   }
 }
