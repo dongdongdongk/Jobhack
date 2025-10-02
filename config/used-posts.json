@@ -759,11 +759,19 @@
       "upvotes": 455,
       "usedAt": "2025-10-02T13:45:55.415Z",
       "url": "https://reddit.com/r/jobs/comments/1nvnox5/forget_the_h1b_debate_offshore_labor_is_stomping/"
+    },
+    {
+      "id": "1nvtczq",
+      "title": "I couldn’t find a job. Now I know why.",
+      "subreddit": "jobs",
+      "upvotes": 414,
+      "usedAt": "2025-10-02T17:49:02.147Z",
+      "url": "https://reddit.com/r/jobs/comments/1nvtczq/i_couldnt_find_a_job_now_i_know_why/"
     }
   ],
   "lastCleanup": "2025-09-30T13:49:14.820Z",
   "stats": {
-    "totalUsed": 161,
+    "totalUsed": 162,
     "cleanupCount": 12
   }
 }
