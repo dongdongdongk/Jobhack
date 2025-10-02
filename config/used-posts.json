@@ -751,11 +751,19 @@
       "upvotes": 327,
       "usedAt": "2025-10-02T02:09:52.697Z",
       "url": "https://reddit.com/r/jobs/comments/1nvcstf/us_companies_shed_32000_jobs_in_september_in/"
+    },
+    {
+      "id": "1nvnox5",
+      "title": "Forget the H-1B Debate: Offshore Labor Is Stomping the U.S. IT Market.",
+      "subreddit": "jobs",
+      "upvotes": 455,
+      "usedAt": "2025-10-02T13:45:55.415Z",
+      "url": "https://reddit.com/r/jobs/comments/1nvnox5/forget_the_h1b_debate_offshore_labor_is_stomping/"
     }
   ],
   "lastCleanup": "2025-09-30T13:49:14.820Z",
   "stats": {
-    "totalUsed": 160,
+    "totalUsed": 161,
     "cleanupCount": 12
   }
 }
