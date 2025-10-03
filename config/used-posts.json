@@ -767,11 +767,19 @@
       "upvotes": 414,
       "usedAt": "2025-10-02T17:49:02.147Z",
       "url": "https://reddit.com/r/jobs/comments/1nvtczq/i_couldnt_find_a_job_now_i_know_why/"
+    },
+    {
+      "id": "1nwcq28",
+      "title": "27, Unemployed, and Feeling Lost",
+      "subreddit": "jobs",
+      "upvotes": 173,
+      "usedAt": "2025-10-03T02:09:22.000Z",
+      "url": "https://reddit.com/r/jobs/comments/1nwcq28/27_unemployed_and_feeling_lost/"
     }
   ],
   "lastCleanup": "2025-09-30T13:49:14.820Z",
   "stats": {
-    "totalUsed": 162,
+    "totalUsed": 163,
     "cleanupCount": 12
   }
 }

@@ -1,21 +1,21 @@
 {
-  "date": "2025-10-02",
-  "timestamp": "2025-10-02T17:49:19.812Z",
-  "executionTimeMs": 19019,
+  "date": "2025-10-03",
+  "timestamp": "2025-10-03T02:09:38.666Z",
+  "executionTimeMs": 17988,
   "blog": {
-    "title": "Uncovering Job Search Mistakes: Here's What I Learned",
-    "filename": "20251002-1749-jobs-i-couldnt-find-a-job-now-i-kno.md",
-    "path": "/home/runner/work/Jobhack/Jobhack/content/posts/20251002-1749-jobs-i-couldnt-find-a-job-now-i-kno.md",
-    "contentLength": 3080,
-    "wordCount": 429
+    "title": "Finding Direction: Navigating Life at 27 and Jobless",
+    "filename": "20251003-0209-jobs-27-unemployed-and-feeling-lost.md",
+    "path": "/home/runner/work/Jobhack/Jobhack/content/posts/20251003-0209-jobs-27-unemployed-and-feeling-lost.md",
+    "contentLength": 3591,
+    "wordCount": 461
   },
   "source": {
     "subreddit": "jobs",
-    "originalTitle": "I couldn’t find a job. Now I know why.",
-    "originalUrl": "https://reddit.com/r/jobs/comments/1nvtczq/i_couldnt_find_a_job_now_i_know_why/",
+    "originalTitle": "27, Unemployed, and Feeling Lost",
+    "originalUrl": "https://reddit.com/r/jobs/comments/1nwcq28/27_unemployed_and_feeling_lost/",
     "engagement": {
-      "upvotes": 414,
-      "comments": 75
+      "upvotes": 173,
+      "comments": 53
     }
   },
   "stats": {
