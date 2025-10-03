@@ -775,11 +775,19 @@
       "upvotes": 173,
       "usedAt": "2025-10-03T02:09:22.000Z",
       "url": "https://reddit.com/r/jobs/comments/1nwcq28/27_unemployed_and_feeling_lost/"
+    },
+    {
+      "id": "1nwk8t1",
+      "title": "I did it. I went in person.",
+      "subreddit": "jobs",
+      "upvotes": 456,
+      "usedAt": "2025-10-03T13:44:51.855Z",
+      "url": "https://reddit.com/r/jobs/comments/1nwk8t1/i_did_it_i_went_in_person/"
     }
   ],
   "lastCleanup": "2025-09-30T13:49:14.820Z",
   "stats": {
-    "totalUsed": 163,
+    "totalUsed": 164,
     "cleanupCount": 12
   }
 }
