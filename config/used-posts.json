@@ -783,11 +783,19 @@
       "upvotes": 456,
       "usedAt": "2025-10-03T13:44:51.855Z",
       "url": "https://reddit.com/r/jobs/comments/1nwk8t1/i_did_it_i_went_in_person/"
+    },
+    {
+      "id": "1nwn9nb",
+      "title": "Our whole sales team got fired.",
+      "subreddit": "jobs",
+      "upvotes": 340,
+      "usedAt": "2025-10-03T17:49:01.777Z",
+      "url": "https://reddit.com/r/jobs/comments/1nwn9nb/our_whole_sales_team_got_fired/"
     }
   ],
   "lastCleanup": "2025-09-30T13:49:14.820Z",
   "stats": {
-    "totalUsed": 164,
+    "totalUsed": 165,
     "cleanupCount": 12
   }
 }
