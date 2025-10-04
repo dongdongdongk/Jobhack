@@ -807,11 +807,19 @@
       "upvotes": 1180,
       "usedAt": "2025-10-04T13:42:49.160Z",
       "url": "https://reddit.com/r/jobs/comments/1nx7xhb/told_my_job_55_doesnt_pay_for_the_bills_have_a/"
+    },
+    {
+      "id": "1nx7b88",
+      "title": "Ex employer told me i need to give back their 401k contribution (vested)",
+      "subreddit": "jobs",
+      "upvotes": 656,
+      "usedAt": "2025-10-04T17:48:57.546Z",
+      "url": "https://reddit.com/r/jobs/comments/1nx7b88/ex_employer_told_me_i_need_to_give_back_their/"
     }
   ],
   "lastCleanup": "2025-09-30T13:49:14.820Z",
   "stats": {
-    "totalUsed": 167,
+    "totalUsed": 168,
     "cleanupCount": 12
   }
 }
