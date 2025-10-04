@@ -791,11 +791,19 @@
       "upvotes": 340,
       "usedAt": "2025-10-03T17:49:01.777Z",
       "url": "https://reddit.com/r/jobs/comments/1nwn9nb/our_whole_sales_team_got_fired/"
+    },
+    {
+      "id": "1nwqds5",
+      "title": "Is it illegal to work the job I was fired from?",
+      "subreddit": "jobs",
+      "upvotes": 11,
+      "usedAt": "2025-10-04T02:05:17.499Z",
+      "url": "https://reddit.com/r/jobs/comments/1nwqds5/is_it_illegal_to_work_the_job_i_was_fired_from/"
     }
   ],
   "lastCleanup": "2025-09-30T13:49:14.820Z",
   "stats": {
-    "totalUsed": 165,
+    "totalUsed": 166,
     "cleanupCount": 12
   }
 }
