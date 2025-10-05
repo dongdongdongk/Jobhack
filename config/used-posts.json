@@ -823,11 +823,19 @@
       "upvotes": 485,
       "usedAt": "2025-10-05T02:20:34.166Z",
       "url": "https://reddit.com/r/jobs/comments/1nxkio7/i_got_a_job/"
+    },
+    {
+      "id": "1nycdtu",
+      "title": "Why is it so hard to get entry level minimum wage positions nowadays",
+      "subreddit": "jobs",
+      "upvotes": 202,
+      "usedAt": "2025-10-05T17:48:58.658Z",
+      "url": "https://reddit.com/r/jobs/comments/1nycdtu/why_is_it_so_hard_to_get_entry_level_minimum_wage/"
     }
   ],
   "lastCleanup": "2025-09-30T13:49:14.820Z",
   "stats": {
-    "totalUsed": 169,
+    "totalUsed": 170,
     "cleanupCount": 12
   }
 }
