@@ -815,11 +815,19 @@
       "upvotes": 656,
       "usedAt": "2025-10-04T17:48:57.546Z",
       "url": "https://reddit.com/r/jobs/comments/1nx7b88/ex_employer_told_me_i_need_to_give_back_their/"
+    },
+    {
+      "id": "1nxkio7",
+      "title": "I got a job!",
+      "subreddit": "jobs",
+      "upvotes": 485,
+      "usedAt": "2025-10-05T02:20:34.166Z",
+      "url": "https://reddit.com/r/jobs/comments/1nxkio7/i_got_a_job/"
     }
   ],
   "lastCleanup": "2025-09-30T13:49:14.820Z",
   "stats": {
-    "totalUsed": 168,
+    "totalUsed": 169,
     "cleanupCount": 12
   }
 }
