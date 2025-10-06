@@ -839,11 +839,19 @@
       "upvotes": 192,
       "usedAt": "2025-10-06T02:13:26.386Z",
       "url": "https://reddit.com/r/jobs/comments/1nykhbt/i_work_in_childcare_and_they_cant_keep_staff_even/"
+    },
+    {
+      "id": "1nywvv1",
+      "title": "People that don’t do anything at work and get paid 80k+ year: what is your position and industry?!",
+      "subreddit": "jobs",
+      "upvotes": 378,
+      "usedAt": "2025-10-06T13:48:35.413Z",
+      "url": "https://reddit.com/r/jobs/comments/1nywvv1/people_that_dont_do_anything_at_work_and_get_paid/"
     }
   ],
   "lastCleanup": "2025-09-30T13:49:14.820Z",
   "stats": {
-    "totalUsed": 171,
+    "totalUsed": 172,
     "cleanupCount": 12
   }
 }
