@@ -847,11 +847,19 @@
       "upvotes": 378,
       "usedAt": "2025-10-06T13:48:35.413Z",
       "url": "https://reddit.com/r/jobs/comments/1nywvv1/people_that_dont_do_anything_at_work_and_get_paid/"
+    },
+    {
+      "id": "1nz0i5p",
+      "title": "i am EMPLOYED ! after almost sleeping on the street",
+      "subreddit": "jobs",
+      "upvotes": 314,
+      "usedAt": "2025-10-06T17:48:44.300Z",
+      "url": "https://reddit.com/r/jobs/comments/1nz0i5p/i_am_employed_after_almost_sleeping_on_the_street/"
     }
   ],
   "lastCleanup": "2025-09-30T13:49:14.820Z",
   "stats": {
-    "totalUsed": 172,
+    "totalUsed": 173,
     "cleanupCount": 12
   }
 }
