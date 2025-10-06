@@ -831,11 +831,19 @@
       "upvotes": 202,
       "usedAt": "2025-10-05T17:48:58.658Z",
       "url": "https://reddit.com/r/jobs/comments/1nycdtu/why_is_it_so_hard_to_get_entry_level_minimum_wage/"
+    },
+    {
+      "id": "1nykhbt",
+      "title": "I work in childcare, and they can’t keep staff even in this market",
+      "subreddit": "jobs",
+      "upvotes": 192,
+      "usedAt": "2025-10-06T02:13:26.386Z",
+      "url": "https://reddit.com/r/jobs/comments/1nykhbt/i_work_in_childcare_and_they_cant_keep_staff_even/"
     }
   ],
   "lastCleanup": "2025-09-30T13:49:14.820Z",
   "stats": {
-    "totalUsed": 170,
+    "totalUsed": 171,
     "cleanupCount": 12
   }
 }
