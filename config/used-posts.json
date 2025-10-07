@@ -863,11 +863,19 @@
       "upvotes": 307,
       "usedAt": "2025-10-07T02:10:34.423Z",
       "url": "https://reddit.com/r/jobs/comments/1nz9adg/my_father_discouraged_me_from_getting_a_job_in_my/"
+    },
+    {
+      "id": "1nztqg0",
+      "title": "The US workers escaping for a career overseas",
+      "subreddit": "jobs",
+      "upvotes": 448,
+      "usedAt": "2025-10-07T13:48:33.233Z",
+      "url": "https://reddit.com/r/jobs/comments/1nztqg0/the_us_workers_escaping_for_a_career_overseas/"
     }
   ],
   "lastCleanup": "2025-09-30T13:49:14.820Z",
   "stats": {
-    "totalUsed": 174,
+    "totalUsed": 175,
     "cleanupCount": 12
   }
 }
