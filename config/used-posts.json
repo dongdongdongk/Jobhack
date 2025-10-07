@@ -855,11 +855,19 @@
       "upvotes": 314,
       "usedAt": "2025-10-06T17:48:44.300Z",
       "url": "https://reddit.com/r/jobs/comments/1nz0i5p/i_am_employed_after_almost_sleeping_on_the_street/"
+    },
+    {
+      "id": "1nz9adg",
+      "title": "My father discouraged me from getting a job in my youth and is now getting mad that I cannot get a job without job experience.",
+      "subreddit": "jobs",
+      "upvotes": 307,
+      "usedAt": "2025-10-07T02:10:34.423Z",
+      "url": "https://reddit.com/r/jobs/comments/1nz9adg/my_father_discouraged_me_from_getting_a_job_in_my/"
     }
   ],
   "lastCleanup": "2025-09-30T13:49:14.820Z",
   "stats": {
-    "totalUsed": 173,
+    "totalUsed": 174,
     "cleanupCount": 12
   }
 }
