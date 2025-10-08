@@ -711,11 +711,19 @@
       "upvotes": 400,
       "usedAt": "2025-10-07T17:48:46.119Z",
       "url": "https://reddit.com/r/jobs/comments/1o05ghu/walmart_ceo_issues_ominous_warning_to_us_workers/"
+    },
+    {
+      "id": "1o0joud",
+      "title": "Used PTO to take an interview only to find out they blatantly lied about the pay",
+      "subreddit": "jobs",
+      "upvotes": 3521,
+      "usedAt": "2025-10-08T02:10:04.372Z",
+      "url": "https://reddit.com/r/jobs/comments/1o0joud/used_pto_to_take_an_interview_only_to_find_out/"
     }
   ],
   "lastCleanup": "2025-10-07T17:48:44.670Z",
   "stats": {
-    "totalUsed": 176,
+    "totalUsed": 177,
     "cleanupCount": 13
   }
 }
