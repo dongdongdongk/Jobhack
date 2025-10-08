@@ -719,11 +719,19 @@
       "upvotes": 3521,
       "usedAt": "2025-10-08T02:10:04.372Z",
       "url": "https://reddit.com/r/jobs/comments/1o0joud/used_pto_to_take_an_interview_only_to_find_out/"
+    },
+    {
+      "id": "1o0prra",
+      "title": "Scoop: White House memo says furloughed federal workers aren't entitled to back pay",
+      "subreddit": "jobs",
+      "upvotes": 1020,
+      "usedAt": "2025-10-08T17:48:31.966Z",
+      "url": "https://reddit.com/r/jobs/comments/1o0prra/scoop_white_house_memo_says_furloughed_federal/"
     }
   ],
   "lastCleanup": "2025-10-07T17:48:44.670Z",
   "stats": {
-    "totalUsed": 177,
+    "totalUsed": 178,
     "cleanupCount": 13
   }
 }
