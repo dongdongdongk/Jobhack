@@ -727,11 +727,19 @@
       "upvotes": 1020,
       "usedAt": "2025-10-08T17:48:31.966Z",
       "url": "https://reddit.com/r/jobs/comments/1o0prra/scoop_white_house_memo_says_furloughed_federal/"
+    },
+    {
+      "id": "1o1c40m",
+      "title": "Just got this “rejection” email not even 20 minutes after applying",
+      "subreddit": "jobs",
+      "upvotes": 2626,
+      "usedAt": "2025-10-09T02:11:55.953Z",
+      "url": "https://reddit.com/r/jobs/comments/1o1c40m/just_got_this_rejection_email_not_even_20_minutes/"
     }
   ],
   "lastCleanup": "2025-10-07T17:48:44.670Z",
   "stats": {
-    "totalUsed": 178,
+    "totalUsed": 179,
     "cleanupCount": 13
   }
 }
